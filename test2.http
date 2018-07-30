@@ -1,0 +1,44 @@
+POST http://localhost:8080
+Content-Type: application/x-www-form-urlencoded
+
+url=https://music.163.com/#/song?id=35847388
+
+###
+POST http://localhost:8080
+Content-Type: application/x-www-form-urlencoded
+
+url=http://music.163.com/#/discover/playlist
+
+###
+
+GET http://localhost:8080/demo/queryAll
+Content-Type: application/x-www-form-urlencoded
+
+
+###
+
+POST http://localhost:8080/playlist/query
+Content-Type: application/x-www-form-urlencoded
+
+###
+
+POST http://localhost:8080/playlist/addsong
+Content-Type: application/x-www-form-urlencoded
+
+playListId=1&id=18&name=demo&duration=4:34
+
+###
+
+POST http://localhost:8080/playlist/add
+Content-Type: application/x-www-form-urlencoded
+
+id=188&title=1
+
+###
+
+POST http://localhost:8080/playlist/querysongs
+Content-Type: application/x-www-form-urlencoded
+
+playListId=1
+
+###

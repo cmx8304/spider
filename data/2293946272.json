@@ -1,0 +1,365 @@
+{
+    "dataType": "playListDetail",
+    "title": "日语Drum&Bass丨小姐姐嗓音搭配轻躁电音",
+    "id": 2293946272,
+    "cover": "http://p3.music.126.net/i2L1NfOLidH2B2qgPoEyPA==/19068830161127363.jpg?param=200y200",
+    "desc": "<b>介绍：</b>\n日电二拖了那么久主要因为去挖了这个新坑<br>\nemmm本单包括了dnb风较浓的曲子也包括drum bass_(:з」∠)_<br>\n<br>\n另外说一下Asterisk，这里收录了他所有的dnb remix…有些曲子音质感人所以放在后面（年代久远），这种...<br>\n",
+    "songs": [
+        {
+            "id": 425570143,
+            "name": "ninelie（Cyan Lpegd bootleg)",
+            "duration": "04:36",
+            "singer": "Cyan Lpegd/Aimer/Egoist/澤野弘之"
+        },
+        {
+            "id": 429482366,
+            "name": "Stay Alive(Jun Kuroda bootleg)",
+            "duration": "03:52",
+            "singer": "Jun Kuroda/高橋李依"
+        },
+        {
+            "id": 28941716,
+            "name": "アシンメトリー",
+            "duration": "04:15",
+            "singer": "れをる"
+        },
+        {
+            "id": 443277368,
+            "name": "GOOD LUCK",
+            "duration": "03:17",
+            "singer": "BPM15Q"
+        },
+        {
+            "id": 416531572,
+            "name": "Chaldene (Jun Kuroda remix)",
+            "duration": "04:22",
+            "singer": "Jun Kuroda"
+        },
+        {
+            "id": 29819851,
+            "name": "Ebb and Flow (5 years after remix) ",
+            "duration": "04:49",
+            "singer": "Tamame"
+        },
+        {
+            "id": 425828614,
+            "name": "インドア系ならトラックメーカー (Jun Kuroda remix)",
+            "duration": "03:27",
+            "singer": "Jun Kuroda/Yunomi/nicamoq"
+        },
+        {
+            "id": 417250032,
+            "name": "Tell Your World (HSP Bootleg Remix)",
+            "duration": "05:36",
+            "singer": "初音ミク/HSP"
+        },
+        {
+            "id": 34033742,
+            "name": "World's End, Girl's Rondo(Asterisk DnB Remix)",
+            "duration": "05:48",
+            "singer": "Asterisk"
+        },
+        {
+            "id": 29498461,
+            "name": "感情ケミストリー(Drum 'n' Bass Remix)",
+            "duration": "05:28",
+            "singer": "幽閉サテライト"
+        },
+        {
+            "id": 417250971,
+            "name": "ふ・れ・ん・ど・し・た・い (Asterisk DnB Remix)",
+            "duration": "03:58",
+            "singer": "Asterisk DnB/Asterisk"
+        },
+        {
+            "id": 512296104,
+            "name": "Can't Stop Raving (5u5h1 Remix)",
+            "duration": "04:07",
+            "singer": "5u5h1/KO3/Getty/Tea"
+        },
+        {
+            "id": 514052560,
+            "name": "病名は愛だった (TSAR Remix)",
+            "duration": "04:47",
+            "singer": "TSAR/柚子茶"
+        },
+        {
+            "id": 514055316,
+            "name": "さよならアンドロメダ",
+            "duration": "06:24",
+            "singer": "福原綾香/高橋花林/村中知"
+        },
+        {
+            "id": 36307350,
+            "name": "Sour Cherry (El Poco Maro Remix)",
+            "duration": "07:27",
+            "singer": "el poco maro/宇多田ヒカル"
+        },
+        {
+            "id": 749561,
+            "name": "人歩みし运命に寄せて",
+            "duration": "06:06",
+            "singer": "野宮あゆみ/Dee!"
+        },
+        {
+            "id": 35955185,
+            "name": "ChaiN De/structioN (Siilento's Solid Remix)",
+            "duration": "03:27",
+            "singer": "削除/Siilento's Solid"
+        },
+        {
+            "id": 30051939,
+            "name": "Dear You",
+            "duration": "01:55",
+            "singer": "DJ Genericname",
+            "albumName": "最新热歌慢摇89"
+        },
+        {
+            "id": 836767,
+            "name": "Stargazer(DJ Shimamura Remix) - remix",
+            "duration": "05:13",
+            "singer": "八王子P/Yukacco"
+        },
+        {
+            "id": 417247319,
+            "name": "World Is Mine (Moosak Remix)",
+            "duration": "05:05",
+            "singer": "Moosak/初音ミク"
+        },
+        {
+            "id": 417243785,
+            "name": "Rocking to the Beat",
+            "duration": "03:59",
+            "singer": "クセモノ レコーズ"
+        },
+        {
+            "id": 41654822,
+            "name": "Aquila",
+            "duration": "04:51",
+            "singer": "EVO+"
+        },
+        {
+            "id": 30841657,
+            "name": "まっしろな雪 - (彼岸帰航～Riverside View)",
+            "duration": "05:45",
+            "singer": "水瀬ましろ"
+        },
+        {
+            "id": 753052,
+            "name": "アナタだけのAngel☆(Full ver.)",
+            "duration": "04:53",
+            "singer": "I've"
+        },
+        {
+            "id": 420134193,
+            "name": "三つ葉の結びめ (HinonO Edit)",
+            "duration": "04:50",
+            "singer": "HinonO/やなぎなぎ/NEKOTA"
+        },
+        {
+            "id": 40729733,
+            "name": "OUR SHIP - (原曲: StrawberryCrisis!! ～東方夢時空 ～ Phantasmagoria of Dim.Dream.～)",
+            "duration": "04:18",
+            "singer": "FELT"
+        },
+        {
+            "id": 31545385,
+            "name": "Nobody can alter me",
+            "duration": "04:12",
+            "singer": "void/みゅい"
+        },
+        {
+            "id": 646913,
+            "name": "Nostalgia",
+            "duration": "05:43",
+            "singer": "三澤秋"
+        },
+        {
+            "id": 39324621,
+            "name": "Shape My Story (Asterisk DnB Remix)",
+            "duration": "04:55",
+            "singer": "Asterisk"
+        },
+        {
+            "id": 28814793,
+            "name": "Masked bitcH (TENKOMORI’s REMIX)",
+            "duration": "03:28",
+            "singer": "さつき が てんこもり"
+        },
+        {
+            "id": 35270886,
+            "name": "おかえりなさい (tomatomerde Remix 1.2Ver.)",
+            "duration": "05:08",
+            "singer": "tomatomerde"
+        },
+        {
+            "id": 420125278,
+            "name": "Oto no Nai Yume (HinonO Edit)",
+            "duration": "05:10",
+            "singer": "HinonO/やなぎなぎ/NEKOTA"
+        },
+        {
+            "id": 420134222,
+            "name": "Life (HinonO Edit)",
+            "duration": "03:51",
+            "singer": "HinonO"
+        },
+        {
+            "id": 28162346,
+            "name": "Rainbow after snow",
+            "duration": "02:07",
+            "singer": "佐藤直之"
+        },
+        {
+            "id": 34364359,
+            "name": "ユーフォリア (Asterisk DnB Remix)",
+            "duration": "04:51",
+            "singer": "Asterisk"
+        },
+        {
+            "id": 472107954,
+            "name": "Dimension Tripper!!!! (TSAR Remix)",
+            "duration": "04:11",
+            "singer": "TSAR/nao"
+        },
+        {
+            "id": 429482347,
+            "name": "青春はnon-stop!(Asterisk Remix)",
+            "duration": "05:01",
+            "singer": "Asterisk"
+        },
+        {
+            "id": 534542475,
+            "name": "手と手",
+            "duration": "03:54",
+            "singer": "CY8ER"
+        },
+        {
+            "id": 34364642,
+            "name": "ユキトキ (Asterisk DnB Remix)",
+            "duration": "05:12",
+            "singer": "Asterisk"
+        },
+        {
+            "id": 406072653,
+            "name": "Alexis",
+            "duration": "05:38",
+            "singer": "Xeuphoria"
+        },
+        {
+            "id": 22699109,
+            "name": "仆のサイノウ (dnb mix by とくP feat. ぱごだ) - remix",
+            "duration": "06:09",
+            "singer": "wowaka"
+        },
+        {
+            "id": 835861,
+            "name": "プラチナアリス(Atomic Sphere Remix) - remix",
+            "duration": "04:08",
+            "singer": "Atomic Sphere",
+            "albumName": "MIXIM vol.03 DnB"
+        },
+        {
+            "id": 423406309,
+            "name": "エヴリデイドリーム (Asterisk DnB Remix)",
+            "duration": "04:38",
+            "singer": "Asterisk DnB"
+        },
+        {
+            "id": 22815396,
+            "name": "どう见てもマンボウです.(DnB remix) - remix",
+            "duration": "05:34",
+            "singer": "アルバトロシクス"
+        },
+        {
+            "id": 34364349,
+            "name": "KIRA☆POWER (Asterisk DnB Remix)",
+            "duration": "04:31",
+            "singer": "Asterisk"
+        },
+        {
+            "id": 39324622,
+            "name": "ウラオモテ・フォーチュン (Asterisk DnB Remix)",
+            "duration": "04:12",
+            "singer": "Asterisk"
+        },
+        {
+            "id": 39324623,
+            "name": "Irony (Asterisk DnB Remix)",
+            "duration": "04:38",
+            "singer": "Asterisk"
+        },
+        {
+            "id": 39324631,
+            "name": "天使にふれたよ! (Asterisk DnB Remix)",
+            "duration": "04:18",
+            "singer": "Asterisk"
+        },
+        {
+            "id": 29897833,
+            "name": "聯袂のサーチライト(Rockin' DnB REMIX)",
+            "duration": "04:04",
+            "singer": "幽閉カタルシス"
+        },
+        {
+            "id": 420513591,
+            "name": "おかえり（Asterisk Remix)",
+            "duration": "03:42",
+            "singer": "Asterisk DnB/Non Non Biyori"
+        },
+        {
+            "id": 33668981,
+            "name": "カラフル（Remix）",
+            "duration": "05:17",
+            "singer": "Asterisk"
+        },
+        {
+            "id": 411314398,
+            "name": "春擬き(Asterisk DnB Remix)",
+            "duration": "04:48",
+            "singer": "Asterisk/やなぎなぎ"
+        },
+        {
+            "id": 399353601,
+            "name": "Sakura Saku (Script Remix)",
+            "duration": "03:38",
+            "singer": "Script/Yunomi"
+        },
+        {
+            "id": 29004170,
+            "name": "PLATFORM",
+            "duration": "05:07",
+            "singer": "ViA Factory/misha"
+        },
+        {
+            "id": 429450497,
+            "name": "流星ドリームライン(Asterisk Remix)",
+            "duration": "03:42",
+            "singer": "Asterisk"
+        },
+        {
+            "id": 463148073,
+            "name": "Next Time(Feat.初音ミク)",
+            "duration": "03:08",
+            "singer": "SaMZIng"
+        },
+        {
+            "id": 39324633,
+            "name": "CLICK (Asterisk DnB Remix Update)",
+            "duration": "04:34",
+            "singer": "Asterisk"
+        },
+        {
+            "id": 417250978,
+            "name": "J-DnB Mix (Master)",
+            "duration": "39:53",
+            "singer": "Asterisk"
+        },
+        {
+            "id": 417250979,
+            "name": "X2 Release partymix",
+            "duration": "29:51",
+            "singer": "Asterisk"
+        }
+    ]
+}

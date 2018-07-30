@@ -1,0 +1,158 @@
+{
+    "dataType": "playListDetail",
+    "title": "✨星际蹦迪指南✨",
+    "id": 2292714040,
+    "cover": "http://p4.music.126.net/La7Rh7U2ZI-9i2bquqYzPg==/109951163381977173.jpg?param=200y200",
+    "songs": [
+        {
+            "id": 862099075,
+            "name": "Stars",
+            "duration": "04:06",
+            "singer": "Marshmello"
+        },
+        {
+            "id": 560032385,
+            "name": "Spaceship",
+            "duration": "02:47",
+            "singer": "Galantis/Uffie"
+        },
+        {
+            "id": 504544453,
+            "name": "远星 (Marshmello Alone Mix)",
+            "duration": "03:24",
+            "singer": "R7CKY/Marshmello"
+        },
+        {
+            "id": 557581479,
+            "name": "Through the Night",
+            "duration": "02:26",
+            "singer": "Slushii"
+        },
+        {
+            "id": 39122020,
+            "name": "The Universe Is Ours (Extended Mix)",
+            "duration": "04:50",
+            "singer": "Headhunterz/Crystal Lake/Reunify/KiFi"
+        },
+        {
+            "id": 424474112,
+            "name": "Island (Original Mix)",
+            "duration": "05:02",
+            "singer": "Dimitri Vegas & Like Mike"
+        },
+        {
+            "id": 27836588,
+            "name": "The Spark",
+            "duration": "04:03",
+            "singer": "Afrojack/Spree Wilson"
+        },
+        {
+            "id": 536624505,
+            "name": "Out Of Time",
+            "duration": "03:49",
+            "singer": "Slushii"
+        },
+        {
+            "id": 411315805,
+            "name": "Into The Strong Light (Wavers Mashup)",
+            "duration": "04:43",
+            "singer": "Wavers/R3hab/KSHMR/Sick Individuals/DBSTF"
+        },
+        {
+            "id": 27750089,
+            "name": "Starlight (Collin McLoughlin Remix)",
+            "duration": "03:04",
+            "singer": "Don Diablo/Matt Nash"
+        },
+        {
+            "id": 440208490,
+            "name": "Starboy (Kygo Remix)",
+            "duration": "04:04",
+            "singer": "Kygo/The Weeknd/Daft Punk"
+        },
+        {
+            "id": 531181485,
+            "name": "Satellites",
+            "duration": "03:30",
+            "singer": "Don Diablo"
+        },
+        {
+            "id": 520459383,
+            "name": "New World",
+            "duration": "02:42",
+            "singer": "VaVa/Krewella/Yellow Claw"
+        },
+        {
+            "id": 425280057,
+            "name": "Over The Edge",
+            "duration": "03:34",
+            "singer": "Borgeous/tyDi/Dia Frampton"
+        },
+        {
+            "id": 34152300,
+            "name": "Stars  (Original Mix)",
+            "duration": "04:13",
+            "singer": "Ummet Ozcan/Katt Niall"
+        },
+        {
+            "id": 34578193,
+            "name": "Life Beyond Earth (Original Mix)",
+            "duration": "04:09",
+            "singer": "Headhunterz/Wildstylez/Project One"
+        },
+        {
+            "id": 399353826,
+            "name": "Into The Sunset (Headhunterz Edit)",
+            "duration": "04:11",
+            "singer": "Crystal Lake/Headhunterz/KiFi"
+        },
+        {
+            "id": 460112965,
+            "name": "Landslide",
+            "duration": "03:42",
+            "singer": "Headhunterz"
+        },
+        {
+            "id": 410519425,
+            "name": "Emptiness",
+            "duration": "03:44",
+            "singer": "Slushii"
+        },
+        {
+            "id": 507903879,
+            "name": "Stargazing",
+            "duration": "03:56",
+            "singer": "Justin Jesso/Kygo"
+        },
+        {
+            "id": 485354982,
+            "name": "Howl At The Moon (Nicky Romero Remix)",
+            "duration": "02:37",
+            "singer": "Nicky Romero/Stadiumx/Taylr Renee"
+        },
+        {
+            "id": 36089522,
+            "name": "Universe (Radio Edit)",
+            "duration": "02:59",
+            "singer": "Don Diablo/Emeni"
+        },
+        {
+            "id": 29910088,
+            "name": "Sparks (Vicetone Remix) [Radio Edit]",
+            "duration": "04:15",
+            "singer": "Vicetone/Fedde Le Grand/Nicky Romero/Matthew Koma"
+        },
+        {
+            "id": 409326798,
+            "name": "Edge of the Earth",
+            "duration": "03:44",
+            "singer": "Don Diablo"
+        },
+        {
+            "id": 29456236,
+            "name": "Back to Earth",
+            "duration": "04:03",
+            "singer": "Steve Aoki/Fall Out Boy"
+        }
+    ]
+}

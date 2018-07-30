@@ -1,0 +1,189 @@
+{
+    "dataType": "playListDetail",
+    "title": "独立电子|异彩纷呈的聆听感受",
+    "id": 2302483501,
+    "cover": "http://p3.music.126.net/ogT9Y79MjXwU60yRAC10wQ==/19172184254136933.jpg?param=200y200",
+    "desc": "<b>介绍：</b>\n独立电子乐（indietronica 或 indie electronic）是一种综合了独立音乐（indie）、电子乐（electronica）、摇滚（rock）和流行（pop）音乐风格的音乐流派。<br>\n并伴随着录音/采样技术以及多媒体音乐技术（电脑...<br>\n",
+    "songs": [
+        {
+            "id": 551970123,
+            "name": "Miracle",
+            "duration": "03:08",
+            "singer": "CHVRCHES"
+        },
+        {
+            "id": 454811641,
+            "name": "I Dare You",
+            "duration": "03:53",
+            "singer": "The xx"
+        },
+        {
+            "id": 32166832,
+            "name": "The One",
+            "duration": "02:54",
+            "singer": "Wolf Colony"
+        },
+        {
+            "id": 26565777,
+            "name": "Kids [2008]",
+            "duration": "05:04",
+            "singer": "MGMT"
+        },
+        {
+            "id": 33937216,
+            "name": "Play Date",
+            "duration": "02:59",
+            "singer": "Melanie Martinez"
+        },
+        {
+            "id": 28935215,
+            "name": "Fallen",
+            "duration": "02:59",
+            "singer": "Imagine Dragons"
+        },
+        {
+            "id": 28770076,
+            "name": "Antigravity",
+            "duration": "06:09",
+            "singer": "Starset"
+        },
+        {
+            "id": 452997043,
+            "name": "Down In Flames",
+            "duration": "03:07",
+            "singer": "Ella Vos"
+        },
+        {
+            "id": 17167377,
+            "name": "Bruises",
+            "duration": "04:03",
+            "singer": "Chairlift"
+        },
+        {
+            "id": 401633997,
+            "name": "All the Ways",
+            "duration": "03:33",
+            "singer": "Wet"
+        },
+        {
+            "id": 28019435,
+            "name": "Better in the Dark",
+            "duration": "03:28",
+            "singer": "Say Lou Lou"
+        },
+        {
+            "id": 29775218,
+            "name": "Lighten Up",
+            "duration": "04:05",
+            "singer": "Citizens!"
+        },
+        {
+            "id": 28190461,
+            "name": "After the Disco",
+            "duration": "03:39",
+            "singer": "Broken Bells"
+        },
+        {
+            "id": 422960827,
+            "name": "Colours",
+            "duration": "04:19",
+            "singer": "Roosevelt"
+        },
+        {
+            "id": 421807960,
+            "name": "Ablaze",
+            "duration": "05:09",
+            "singer": "School of Seven Bells"
+        },
+        {
+            "id": 19538463,
+            "name": "Eyes",
+            "duration": "04:43",
+            "singer": "The Naked and Famous"
+        },
+        {
+            "id": 27800008,
+            "name": "Fading",
+            "duration": "04:10",
+            "singer": "Fenech-Soler"
+        },
+        {
+            "id": 17895070,
+            "name": "Chimes",
+            "duration": "04:37",
+            "singer": "Friendly Fires"
+        },
+        {
+            "id": 28302220,
+            "name": "Ways To Go",
+            "duration": "03:35",
+            "singer": "Grouplove"
+        },
+        {
+            "id": 27747359,
+            "name": "Tennis Court",
+            "duration": "03:18",
+            "singer": "Lorde"
+        },
+        {
+            "id": 410802577,
+            "name": "Keep It Close To Me",
+            "duration": "03:14",
+            "singer": "Yumi Zouma"
+        },
+        {
+            "id": 18318936,
+            "name": "Let Me Be Him",
+            "duration": "07:42",
+            "singer": "Hot Chip"
+        },
+        {
+            "id": 477839665,
+            "name": "H.O.P.E.",
+            "duration": "03:35",
+            "singer": "Molly Nilsson"
+        },
+        {
+            "id": 28525822,
+            "name": "All I Want",
+            "duration": "03:34",
+            "singer": "Dawn Golden"
+        },
+        {
+            "id": 16852507,
+            "name": "Invisible Cities",
+            "duration": "04:25",
+            "singer": "Beat Connection"
+        },
+        {
+            "id": 1807852,
+            "name": "Strawberry Avalanche",
+            "duration": "03:16",
+            "singer": "Owl City"
+        },
+        {
+            "id": 418550505,
+            "name": "Full Blown Love",
+            "duration": "03:30",
+            "singer": "BROODS"
+        },
+        {
+            "id": 35283792,
+            "name": "Say My Name",
+            "duration": "04:22",
+            "singer": "Odesza/Zyra"
+        },
+        {
+            "id": 30474208,
+            "name": "Ebb/Flow",
+            "duration": "04:46",
+            "singer": "All We Are"
+        },
+        {
+            "id": 28018196,
+            "name": "Fantasy",
+            "duration": "03:27",
+            "singer": "Ms Mr"
+        }
+    ]
+}

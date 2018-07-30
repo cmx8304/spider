@@ -1,0 +1,278 @@
+{
+    "dataType": "playListDetail",
+    "title": "大海奇遇记 | 是谁的海浪打在我心上",
+    "id": 2303016592,
+    "cover": "http://p3.music.126.net/CXC97bAX8JCiZsU2l9B-Ng==/109951163393296587.jpg?param=200y200",
+    "songs": [
+        {
+            "id": 507364531,
+            "name": "海蓝色",
+            "duration": "03:01",
+            "singer": "高姗"
+        },
+        {
+            "id": 28643008,
+            "name": "海上蝴蝶",
+            "duration": "04:43",
+            "singer": "茶小姐和熊先生"
+        },
+        {
+            "id": 514774334,
+            "name": "海浪",
+            "duration": "04:02",
+            "singer": "红白色乐队"
+        },
+        {
+            "id": 539820204,
+            "name": "里面（Inside）",
+            "duration": "03:44",
+            "singer": "沈以诚"
+        },
+        {
+            "id": 405987271,
+            "name": "summer time",
+            "duration": "04:04",
+            "singer": "茉茉天空"
+        },
+        {
+            "id": 445546453,
+            "name": "浮生",
+            "duration": "05:29",
+            "singer": "刘莱斯"
+        },
+        {
+            "id": 561801288,
+            "name": "走远",
+            "duration": "03:44",
+            "singer": "南游记乐队"
+        },
+        {
+            "id": 574540818,
+            "name": "一个人的宇宙",
+            "duration": "04:25",
+            "singer": "Kirin Trio"
+        },
+        {
+            "id": 386830,
+            "name": "大石碎胸口",
+            "duration": "07:03",
+            "singer": "万能青年旅店"
+        },
+        {
+            "id": 22853005,
+            "name": "只有夜来香",
+            "duration": "04:36",
+            "singer": "卢广仲"
+        },
+        {
+            "id": 530801485,
+            "name": "兄弟没梦不应该 - (Brothers Shouldn’t Live Without Dreams)",
+            "duration": "10:07",
+            "singer": "拍谢少年"
+        },
+        {
+            "id": 209326,
+            "name": "旅行的意义",
+            "duration": "04:04",
+            "singer": "陈绮贞"
+        },
+        {
+            "id": 492151623,
+            "name": "从北到南",
+            "duration": "04:01",
+            "singer": "司徒骏文"
+        },
+        {
+            "id": 439665868,
+            "name": "我想去旅行",
+            "duration": "03:27",
+            "singer": "李子阳"
+        },
+        {
+            "id": 512527423,
+            "name": "晃动在眼皮上的阳光",
+            "duration": "04:14",
+            "singer": "玥霖Gabrielle"
+        },
+        {
+            "id": 862102927,
+            "name": "海面上睡去的太阳",
+            "duration": "03:53",
+            "singer": "萨沙"
+        },
+        {
+            "id": 518035280,
+            "name": "小船",
+            "duration": "05:02",
+            "singer": "鲤鱼滑梯"
+        },
+        {
+            "id": 527504758,
+            "name": "嘟碧记",
+            "duration": "04:32",
+            "singer": "水仙斗活佛"
+        },
+        {
+            "id": 556462734,
+            "name": "野海",
+            "duration": "04:14",
+            "singer": "潜水大象"
+        },
+        {
+            "id": 533653959,
+            "name": "你必须在一个荒唐的夜，骑着摩托穿过下雨的街",
+            "duration": "05:18",
+            "singer": "风子"
+        },
+        {
+            "id": 31544449,
+            "name": "海岸",
+            "duration": "04:53",
+            "singer": "黄小岛"
+        },
+        {
+            "id": 41665418,
+            "name": "鱼 demo",
+            "duration": "05:43",
+            "singer": "龚子婕JessieG"
+        },
+        {
+            "id": 574850368,
+            "name": "樱桃熟了",
+            "duration": "04:07",
+            "singer": "白亮"
+        },
+        {
+            "id": 570352571,
+            "name": "威尼斯的海 - (Sea of Venice)",
+            "duration": "03:31",
+            "singer": "RaJor"
+        },
+        {
+            "id": 418326774,
+            "name": "彩云下",
+            "duration": "04:08",
+            "singer": "重庆孩子"
+        },
+        {
+            "id": 527504504,
+            "name": "清晨，黄昏demo",
+            "duration": "05:08",
+            "singer": "未完成乐队"
+        },
+        {
+            "id": 540242055,
+            "name": "思念，飞不过海（Remake）",
+            "duration": "04:10",
+            "singer": "MT Boxer"
+        },
+        {
+            "id": 547159716,
+            "name": "无题",
+            "duration": "03:59",
+            "singer": "夏小桐"
+        },
+        {
+            "id": 863363336,
+            "name": "不懂",
+            "duration": "04:28",
+            "singer": "小闯"
+        },
+        {
+            "id": 449859550,
+            "name": "再见未名海",
+            "duration": "05:08",
+            "singer": "Mario"
+        },
+        {
+            "id": 29323310,
+            "name": "岛",
+            "duration": "02:28",
+            "singer": "舒大卫"
+        },
+        {
+            "id": 486072586,
+            "name": "去海边",
+            "duration": "04:45",
+            "singer": "阿修罗"
+        },
+        {
+            "id": 461517063,
+            "name": "潮汐",
+            "duration": "01:52",
+            "singer": "鲸鱼马戏团"
+        },
+        {
+            "id": 32977010,
+            "name": "鲸鱼岛的梦",
+            "duration": "04:11",
+            "singer": "鲸鱼岛乐队"
+        },
+        {
+            "id": 5274955,
+            "name": "伤心太平洋",
+            "duration": "04:27",
+            "singer": "任贤齐"
+        },
+        {
+            "id": 239469,
+            "name": "蓝色啤酒海",
+            "duration": "03:35",
+            "singer": "黄韵玲"
+        },
+        {
+            "id": 473834009,
+            "name": "失踪的船",
+            "duration": "05:03",
+            "singer": "黄小岛"
+        },
+        {
+            "id": 92587,
+            "name": "我想我是海",
+            "duration": "04:50",
+            "singer": "黄磊"
+        },
+        {
+            "id": 327186,
+            "name": "看海",
+            "duration": "04:59",
+            "singer": "周迅"
+        },
+        {
+            "id": 533767211,
+            "name": "岛(Demo)",
+            "duration": "05:30",
+            "singer": "玥霖Gabrielle"
+        },
+        {
+            "id": 130283,
+            "name": "In the ocean",
+            "duration": "03:28",
+            "singer": "梁晓雪/魏如萱"
+        },
+        {
+            "id": 28314060,
+            "name": "听海",
+            "duration": "05:18",
+            "singer": "张惠妹"
+        },
+        {
+            "id": 32823793,
+            "name": "被困住的鲸 - (The Fettered Whale)",
+            "duration": "02:15",
+            "singer": "Tie Yann（铁阳）"
+        },
+        {
+            "id": 209429,
+            "name": "坐火车到传说中的湘南海岸",
+            "duration": "01:50",
+            "singer": "陈绮贞"
+        },
+        {
+            "id": 293649,
+            "name": "岛歌",
+            "duration": "04:11",
+            "singer": "汤旭"
+        }
+    ]
+}

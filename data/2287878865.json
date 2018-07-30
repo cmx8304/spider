@@ -1,0 +1,188 @@
+{
+    "dataType": "playListDetail",
+    "title": "bingo！来一场完美的女声邂逅",
+    "id": 2287878865,
+    "cover": "http://p3.music.126.net/GfsRg7zNGjfzGePxTN1L2w==/19050138463457380.jpg?param=200y200",
+    "songs": [
+        {
+            "id": 489041829,
+            "name": "Why",
+            "duration": "02:51",
+            "singer": "Sabrina Carpenter"
+        },
+        {
+            "id": 28148942,
+            "name": "Burn",
+            "duration": "02:03",
+            "singer": "Angelika Vee"
+        },
+        {
+            "id": 483024225,
+            "name": "Fallin'",
+            "duration": "03:07",
+            "singer": "Jessica Mauboy"
+        },
+        {
+            "id": 497463179,
+            "name": "Lucky",
+            "duration": "03:20",
+            "singer": "Lenka"
+        },
+        {
+            "id": 412902446,
+            "name": "Liquorice",
+            "duration": "03:03",
+            "singer": "Alice Jemima"
+        },
+        {
+            "id": 33937179,
+            "name": "Sippy Cup",
+            "duration": "03:15",
+            "singer": "Melanie Martinez"
+        },
+        {
+            "id": 27899008,
+            "name": "Sunflower",
+            "duration": "03:27",
+            "singer": "Emma Stevens"
+        },
+        {
+            "id": 28987075,
+            "name": "Four Walls",
+            "duration": "03:28",
+            "singer": "BROODS"
+        },
+        {
+            "id": 17079945,
+            "name": "You Got Me",
+            "duration": "04:00",
+            "singer": "Colbie Caillat"
+        },
+        {
+            "id": 18056663,
+            "name": "Black Sheep",
+            "duration": "03:03",
+            "singer": "Gin Wigmore"
+        },
+        {
+            "id": 2872362,
+            "name": "Forevermore",
+            "duration": "02:22",
+            "singer": "Katie Herzig"
+        },
+        {
+            "id": 33414830,
+            "name": "Green & Gold",
+            "duration": "04:38",
+            "singer": "Lianne La Havas"
+        },
+        {
+            "id": 5179669,
+            "name": "Jardin D'hiver",
+            "duration": "02:58",
+            "singer": "Keren Ann"
+        },
+        {
+            "id": 2587254,
+            "name": "Apples and Pie",
+            "duration": "04:30",
+            "singer": "Ellem"
+        },
+        {
+            "id": 444356814,
+            "name": "i hate u i love u",
+            "duration": "03:43",
+            "singer": "Biscuits"
+        },
+        {
+            "id": 518077470,
+            "name": "1-800-273-8255",
+            "duration": "03:36",
+            "singer": "Tiffany Alvord"
+        },
+        {
+            "id": 19531715,
+            "name": "Forget To Begin",
+            "duration": "04:43",
+            "singer": "The Hampdens"
+        },
+        {
+            "id": 467953667,
+            "name": "Fingers Crossed",
+            "duration": "03:39",
+            "singer": "Billie Eilish"
+        },
+        {
+            "id": 461124355,
+            "name": "Soaked Through",
+            "duration": "03:20",
+            "singer": "Sara"
+        },
+        {
+            "id": 28646468,
+            "name": "Shadow of Doubt",
+            "duration": "03:59",
+            "singer": "Melanie Penn"
+        },
+        {
+            "id": 461301178,
+            "name": "Childhood Dreams",
+            "duration": "03:07",
+            "singer": "ARY"
+        },
+        {
+            "id": 511416950,
+            "name": "Stand By Your Man",
+            "duration": "02:43",
+            "singer": "Carla Bruni"
+        },
+        {
+            "id": 37720008,
+            "name": "Hawk Fly Tiger Run",
+            "duration": "02:56",
+            "singer": "Ofelia K"
+        },
+        {
+            "id": 437605840,
+            "name": "After the Afterparty",
+            "duration": "03:39",
+            "singer": "Charli XCX/Lil Yachty"
+        },
+        {
+            "id": 28133171,
+            "name": "Chasing All the Stars",
+            "duration": "03:23",
+            "singer": "Fleurie"
+        },
+        {
+            "id": 3161532,
+            "name": "Everything We Don't Say",
+            "duration": "03:57",
+            "singer": "Maggie McClure"
+        },
+        {
+            "id": 492092383,
+            "name": "idontwannabeyouanymore",
+            "duration": "03:23",
+            "singer": "Billie Eilish"
+        },
+        {
+            "id": 29544259,
+            "name": "No Glamour In The Hammer",
+            "duration": "03:05",
+            "singer": "Whitehorse"
+        },
+        {
+            "id": 2184653,
+            "name": "You’ve Got The Kind Of Nerve I Like",
+            "duration": "03:14",
+            "singer": "Tiny Ruins"
+        },
+        {
+            "id": 418257929,
+            "name": "All About That Bass (Acoustic Cover)",
+            "duration": "03:19",
+            "singer": "CANNIE(晴子)"
+        }
+    ]
+}

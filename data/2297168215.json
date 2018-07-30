@@ -1,0 +1,339 @@
+{
+    "dataType": "playListDetail",
+    "title": "华语情歌｜一个字就戳中泪点的情话",
+    "id": 2297168215,
+    "cover": "http://p3.music.126.net/TLL-xfjw81s6PbDPPqZ2LA==/19211766672751955.jpg?param=200y200",
+    "songs": [
+        {
+            "id": 864597550,
+            "name": "梦",
+            "duration": "05:16",
+            "singer": "易思宏"
+        },
+        {
+            "id": 515803379,
+            "name": "别",
+            "duration": "03:35",
+            "singer": "薛之谦"
+        },
+        {
+            "id": 255999,
+            "name": "愿",
+            "duration": "03:15",
+            "singer": "林忆莲"
+        },
+        {
+            "id": 296841,
+            "name": "你",
+            "duration": "03:44",
+            "singer": "田馥甄"
+        },
+        {
+            "id": 176047,
+            "name": "让",
+            "duration": "05:47",
+            "singer": "杨宗纬"
+        },
+        {
+            "id": 254049,
+            "name": "她",
+            "duration": "04:04",
+            "singer": "梁静茹"
+        },
+        {
+            "id": 29794922,
+            "name": "怕",
+            "duration": "04:09",
+            "singer": "杨丞琳"
+        },
+        {
+            "id": 81378,
+            "name": "寻",
+            "duration": "04:14",
+            "singer": "东篱"
+        },
+        {
+            "id": 517571371,
+            "name": "渡",
+            "duration": "03:33",
+            "singer": "薛之谦"
+        },
+        {
+            "id": 490793017,
+            "name": "船",
+            "duration": "04:03",
+            "singer": "喜伟"
+        },
+        {
+            "id": 277302,
+            "name": "爱",
+            "duration": "03:20",
+            "singer": "莫文蔚"
+        },
+        {
+            "id": 277129,
+            "name": "手",
+            "duration": "04:07",
+            "singer": "莫文蔚"
+        },
+        {
+            "id": 478685159,
+            "name": "沫",
+            "duration": "04:23",
+            "singer": "刘大阳"
+        },
+        {
+            "id": 35090368,
+            "name": "海",
+            "duration": "04:17",
+            "singer": "任东"
+        },
+        {
+            "id": 239191,
+            "name": "壳",
+            "duration": "04:56",
+            "singer": "黄小琥"
+        },
+        {
+            "id": 29829308,
+            "name": "缘",
+            "duration": "04:01",
+            "singer": "伦桑"
+        },
+        {
+            "id": 30482452,
+            "name": "念",
+            "duration": "04:07",
+            "singer": "石头"
+        },
+        {
+            "id": 486936974,
+            "name": "寻",
+            "duration": "04:19",
+            "singer": "白翎"
+        },
+        {
+            "id": 423776086,
+            "name": "念",
+            "duration": "04:34",
+            "singer": "鸦青"
+        },
+        {
+            "id": 28680163,
+            "name": "忆",
+            "duration": "04:42",
+            "singer": "月儿",
+            "albumName": "热门华语223"
+        },
+        {
+            "id": 492614573,
+            "name": "念",
+            "duration": "04:03",
+            "singer": "雾敛"
+        },
+        {
+            "id": 410714658,
+            "name": "瞬",
+            "duration": "04:37",
+            "singer": "谢春花"
+        },
+        {
+            "id": 419375654,
+            "name": "喵",
+            "duration": "01:58",
+            "singer": "花粥"
+        },
+        {
+            "id": 27731259,
+            "name": "丢",
+            "duration": "05:34",
+            "singer": "布衣乐队"
+        },
+        {
+            "id": 482716393,
+            "name": "谜",
+            "duration": "04:27",
+            "singer": "王大冲"
+        },
+        {
+            "id": 416388913,
+            "name": "光",
+            "duration": "03:48",
+            "singer": "翁大涵"
+        },
+        {
+            "id": 467168947,
+            "name": "春",
+            "duration": "04:59",
+            "singer": "某某水果"
+        },
+        {
+            "id": 34017160,
+            "name": " 桥",
+            "duration": "04:53",
+            "singer": "郑小辫儿"
+        },
+        {
+            "id": 35476027,
+            "name": "幻",
+            "duration": "03:53",
+            "singer": "茶季杨"
+        },
+        {
+            "id": 168020,
+            "name": "树",
+            "duration": "04:23",
+            "singer": "许巍"
+        },
+        {
+            "id": 155999,
+            "name": "你",
+            "duration": "03:34",
+            "singer": "汪峰"
+        },
+        {
+            "id": 479499123,
+            "name": "万",
+            "duration": "04:20",
+            "singer": "常岭"
+        },
+        {
+            "id": 155763,
+            "name": "失",
+            "duration": "03:39",
+            "singer": "万晓利"
+        },
+        {
+            "id": 29736081,
+            "name": "作",
+            "duration": "04:17",
+            "singer": "郑钧"
+        },
+        {
+            "id": 27552652,
+            "name": "水",
+            "duration": "08:47",
+            "singer": "万晓利"
+        },
+        {
+            "id": 423058878,
+            "name": "信",
+            "duration": "03:33",
+            "singer": "赵烁"
+        },
+        {
+            "id": 28029271,
+            "name": "归",
+            "duration": "05:23",
+            "singer": "秘密後院"
+        },
+        {
+            "id": 449555971,
+            "name": "光",
+            "duration": "04:22",
+            "singer": "小皮"
+        },
+        {
+            "id": 253969,
+            "name": "逝",
+            "duration": "04:49",
+            "singer": "雷光夏"
+        },
+        {
+            "id": 28068843,
+            "name": "家 - (Home)",
+            "duration": "03:39",
+            "singer": "陈绮贞"
+        },
+        {
+            "id": 284756,
+            "name": "星",
+            "duration": "04:11",
+            "singer": "齐豫"
+        },
+        {
+            "id": 34183450,
+            "name": "依",
+            "duration": "03:52",
+            "singer": "谷柏杉"
+        },
+        {
+            "id": 67296,
+            "name": "钟",
+            "duration": "04:46",
+            "singer": "川子"
+        },
+        {
+            "id": 155810,
+            "name": "霞",
+            "duration": "03:40",
+            "singer": "万晓利"
+        },
+        {
+            "id": 28935310,
+            "name": "混",
+            "duration": "03:31",
+            "singer": "安来宁"
+        },
+        {
+            "id": 482999841,
+            "name": "你",
+            "duration": "04:19",
+            "singer": "侯康"
+        },
+        {
+            "id": 437755447,
+            "name": "途",
+            "duration": "04:04",
+            "singer": "倪健"
+        },
+        {
+            "id": 34017163,
+            "name": "灰",
+            "duration": "03:42",
+            "singer": "郑小辫儿"
+        },
+        {
+            "id": 28310930,
+            "name": "涩",
+            "duration": "05:13",
+            "singer": "纣王老胡"
+        },
+        {
+            "id": 461521046,
+            "name": "轻",
+            "duration": "01:56",
+            "singer": "鲸鱼马戏团"
+        },
+        {
+            "id": 29378547,
+            "name": "花",
+            "duration": "05:52",
+            "singer": "Hello Nico"
+        },
+        {
+            "id": 34167152,
+            "name": "逃",
+            "duration": "03:54",
+            "singer": "打扰一下乐团"
+        },
+        {
+            "id": 26145721,
+            "name": "冬",
+            "duration": "04:01",
+            "singer": "好妹妹"
+        },
+        {
+            "id": 29747622,
+            "name": "她",
+            "duration": "04:31",
+            "singer": "不可撤销"
+        },
+        {
+            "id": 30431364,
+            "name": "光",
+            "duration": "02:21",
+            "singer": "陈粒"
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "dataType": "playListDetail",
+    "title": "【提琴电音】自悠扬起，余韵无穷",
+    "id": 2230696910,
+    "cover": "http://p4.music.126.net/oRr1GGfQCnlpj8R3e2haSA==/109951163401451378.jpg?param=200y200",
+    "desc": "<b>介绍：</b>\n提琴，只应出现在交响乐中，甘当配角吗？<br>\n<br>\nDJ们用自己的优秀乐感和近乎变态的乐器池告诉你，当然不可能。<br>\n<br>\n无论大提琴还是小提琴，到了DJ们的手里，似乎都能成为一支乐曲的主角，在与电子音色的碰撞之中迸...<br>\n",
+    "songs": [
+        {
+            "id": 553479154,
+            "name": "Ocean",
+            "duration": "02:54",
+            "singer": "Alok/Zeeba/Iro"
+        },
+        {
+            "id": 512504339,
+            "name": "Vertigo",
+            "duration": "02:57",
+            "singer": "DOLF/Yellow Claw/Caroline Pennell"
+        },
+        {
+            "id": 36308916,
+            "name": "Monody",
+            "duration": "04:50",
+            "singer": "TheFatRat/Laura Brehm"
+        },
+        {
+            "id": 493551130,
+            "name": "Take Me",
+            "duration": "04:00",
+            "singer": "Will Sparks/Gloria Kim"
+        },
+        {
+            "id": 493551116,
+            "name": "Paradise",
+            "duration": "04:15",
+            "singer": "Lost Stories"
+        },
+        {
+            "id": 426026490,
+            "name": "Over You",
+            "duration": "03:12",
+            "singer": "FlyBoy/Dyrisk"
+        },
+        {
+            "id": 28095742,
+            "name": "Rather Be",
+            "duration": "04:01",
+            "singer": "Clean Bandit/Jess Glynne"
+        },
+        {
+            "id": 543987451,
+            "name": "Way Back",
+            "duration": "03:28",
+            "singer": "Vicetone/Cozi Zuehlsdorff"
+        },
+        {
+            "id": 404783169,
+            "name": "Bright Side ",
+            "duration": "03:24",
+            "singer": "Cosmos/Creature/Vicetone"
+        },
+        {
+            "id": 442869301,
+            "name": "Shed a Light",
+            "duration": "03:11",
+            "singer": "Robin Schulz/David Guetta/Cheat Codes"
+        },
+        {
+            "id": 36307863,
+            "name": "Dying For You",
+            "duration": "03:16",
+            "singer": "Otto Knows/Lindsey Stirling/Alex Aris"
+        },
+        {
+            "id": 28461165,
+            "name": "We Are Giants",
+            "duration": "03:43",
+            "singer": "Lindsey Stirling/Dia Frampton"
+        },
+        {
+            "id": 408440454,
+            "name": "Where We Belong",
+            "duration": "03:12",
+            "singer": "Hugel/Jasmine Thompson"
+        },
+        {
+            "id": 507134217,
+            "name": "Deep Down Inside",
+            "duration": "02:27",
+            "singer": "La Fuente"
+        },
+        {
+            "id": 475264159,
+            "name": "Tears In Your Eyes",
+            "duration": "03:35",
+            "singer": "Nora En Pure"
+        },
+        {
+            "id": 431855270,
+            "name": "Take Me To Infinity",
+            "duration": "03:27",
+            "singer": "Consoul Trainin"
+        },
+        {
+            "id": 31789010,
+            "name": "Shots (Broiler Remix)",
+            "duration": "03:11",
+            "singer": "Imagine Dragons/Broiler"
+        },
+        {
+            "id": 33166857,
+            "name": "Nothing Stopping Me",
+            "duration": "03:44",
+            "singer": "Vicetone/Kat Nestel"
+        },
+        {
+            "id": 404784014,
+            "name": "All The Kids (Original Mix)",
+            "duration": "03:11",
+            "singer": "Sam Feldt/Lulleaux"
+        },
+        {
+            "id": 33522489,
+            "name": "Summer Vibe (Pegato Remix)",
+            "duration": "03:33",
+            "singer": "Pegato/Walk off the Earth"
+        },
+        {
+            "id": 410629778,
+            "name": "True Stories (Aroze Violin Remix)",
+            "duration": "04:34",
+            "singer": "Aroze/Axero"
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "dataType": "playListDetail",
+    "title": "日系纯音 / 与你在樱花树下的誓言",
+    "id": 2045228400,
+    "cover": "http://p4.music.126.net/dNMp_W_H1zefIOcVZ3yWKw==/19000660440208767.jpg?param=200y200",
+    "songs": [
+        {
+            "id": 22706979,
+            "name": "汐",
+            "duration": "01:08",
+            "singer": "戸越まごめ"
+        },
+        {
+            "id": 357126,
+            "name": "Tassel",
+            "duration": "04:30",
+            "singer": "Cymophane"
+        },
+        {
+            "id": 33211959,
+            "name": "悠久 - a moment -(off vocal)",
+            "duration": "04:51",
+            "singer": "流派未月亭"
+        },
+        {
+            "id": 22663110,
+            "name": "木陰",
+            "duration": "05:24",
+            "singer": "いろのみ"
+        },
+        {
+            "id": 22678650,
+            "name": "Dear",
+            "duration": "05:18",
+            "singer": "まらしぃ"
+        },
+        {
+            "id": 22712173,
+            "name": "Refrain",
+            "duration": "08:52",
+            "singer": "Anan Ryoko"
+        },
+        {
+            "id": 406232,
+            "name": "Luv Letter",
+            "duration": "04:30",
+            "singer": "DJ Okawari"
+        },
+        {
+            "id": 786262,
+            "name": "you - (TV动画《寒蝉鸣泣之时 解》原声)",
+            "duration": "03:34",
+            "singer": "M.Graveyard"
+        },
+        {
+            "id": 4922660,
+            "name": "月明かり",
+            "duration": "02:55",
+            "singer": "日本ACG"
+        },
+        {
+            "id": 729836,
+            "name": "Endless Pain",
+            "duration": "05:11",
+            "singer": "FELT"
+        },
+        {
+            "id": 33735981,
+            "name": "イノセント",
+            "duration": "01:25",
+            "singer": "V.A."
+        },
+        {
+            "id": 4966665,
+            "name": "スカーレット",
+            "duration": "03:09",
+            "singer": "上松範康"
+        },
+        {
+            "id": 681974,
+            "name": "春のひだまり",
+            "duration": "02:50",
+            "singer": "Angel Note"
+        },
+        {
+            "id": 33737082,
+            "name": "两个人总是",
+            "duration": "02:32",
+            "singer": "V.A."
+        },
+        {
+            "id": 30051479,
+            "name": "クオリアの想い",
+            "duration": "02:57",
+            "singer": "忍"
+        },
+        {
+            "id": 32192109,
+            "name": "あたたかな雪",
+            "duration": "05:08",
+            "singer": "Peak A Soul+"
+        },
+        {
+            "id": 32102187,
+            "name": "いのちの名前",
+            "duration": "03:40",
+            "singer": "V.A."
+        },
+        {
+            "id": 28700043,
+            "name": "永遠を願うとき",
+            "duration": "02:10",
+            "singer": "松本文紀"
+        },
+        {
+            "id": 28411059,
+            "name": "祝!恋ばな成就!",
+            "duration": "02:01",
+            "singer": "増田俊郎"
+        },
+        {
+            "id": 28411062,
+            "name": "揺れ動く心",
+            "duration": "01:53",
+            "singer": "増田俊郎"
+        },
+        {
+            "id": 509313150,
+            "name": "Sakura Tears - (櫻花淚)",
+            "duration": "03:04",
+            "singer": "Nigel Silin",
+            "albumName": "最新热歌慢摇110"
+        },
+        {
+            "id": 4922735,
+            "name": "雨を待ってる",
+            "duration": "01:48",
+            "singer": "Peak A Soul+"
+        },
+        {
+            "id": 32857651,
+            "name": "繋ぎとめた世界",
+            "duration": "02:40",
+            "singer": "帆足圭吾"
+        },
+        {
+            "id": 451520689,
+            "name": "あきくるのテーマ",
+            "duration": "02:57",
+            "singer": "V.A."
+        },
+        {
+            "id": 4928394,
+            "name": "笑っていたくて……",
+            "duration": "01:31",
+            "singer": "母里治樹"
+        },
+        {
+            "id": 448126,
+            "name": "今はその剣を置いて",
+            "duration": "01:44",
+            "singer": "川井憲次"
+        },
+        {
+            "id": 535915,
+            "name": "神木村の悲しい风习",
+            "duration": "02:25",
+            "singer": "上田雅美"
+        },
+        {
+            "id": 31370116,
+            "name": "奈々生・母との思い出",
+            "duration": "01:19",
+            "singer": "増田俊郎"
+        },
+        {
+            "id": 33211958,
+            "name": "訣別 - nihilism - (off vocal)",
+            "duration": "04:18",
+            "singer": "流派未月亭"
+        },
+        {
+            "id": 28568064,
+            "name": "月に寄りそう乙女の夜の作法",
+            "duration": "04:40",
+            "singer": "Arte Refact"
+        },
+        {
+            "id": 535969,
+            "name": "“Reset”~“ありがとう”バージョン~",
+            "duration": "05:22",
+            "singer": "上田雅美"
+        },
+        {
+            "id": 478387,
+            "name": "ちる はな さくら ~ピアノバージョン~",
+            "duration": "02:13",
+            "singer": "三輪学"
+        },
+        {
+            "id": 30051506,
+            "name": "すべてを雪に染めて ～never ending snow～",
+            "duration": "03:26",
+            "singer": "忍"
+        }
+    ]
+}

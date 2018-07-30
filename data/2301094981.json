@@ -1,0 +1,614 @@
+{
+    "dataType": "playListDetail",
+    "title": "Liquid DnB告诉你什么才叫摄人心魂的BGM!!",
+    "id": 2301094981,
+    "cover": "http://p3.music.126.net/QOaB3oU9WNhjp5IaEM1s_w==/19197473021584984.jpg?param=200y200",
+    "desc": "<b>介绍：</b>\nLiquid Funk aka Liquid DnB 是Drum&amp;Bass的一个分类，其特征融合了Jazz的Soul元素，旋律比较偏向Jazz风味，而Drum很多也都是实际取样的，大量切分节奏的以及那些碎拍的使用使它的Drum具有很强的气息和层次...<br>\n",
+    "songs": [
+        {
+            "id": 571595775,
+            "name": "Last Heartbeat",
+            "duration": "04:50",
+            "singer": "CEM Records/AgNo3"
+        },
+        {
+            "id": 487028125,
+            "name": "I Found You",
+            "duration": "05:14",
+            "singer": "Survival"
+        },
+        {
+            "id": 531051225,
+            "name": "Venus",
+            "duration": "04:06",
+            "singer": "Rameses B/Zoe Moon"
+        },
+        {
+            "id": 467952110,
+            "name": "Fleeting Love",
+            "duration": "05:31",
+            "singer": "Monrroe"
+        },
+        {
+            "id": 487028133,
+            "name": "Suddenly Nothing",
+            "duration": "06:09",
+            "singer": "Survival/Naomi Pryor"
+        },
+        {
+            "id": 28268035,
+            "name": "Once Upon A Time",
+            "duration": "04:48",
+            "singer": "Rameses B"
+        },
+        {
+            "id": 414118108,
+            "name": "Stay",
+            "duration": "06:15",
+            "singer": "Charlotte Haining/Monrroe"
+        },
+        {
+            "id": 28268033,
+            "name": "Stories",
+            "duration": "05:01",
+            "singer": "Fliwo",
+            "albumName": "Escapism"
+        },
+        {
+            "id": 484058129,
+            "name": "Brighter Days",
+            "duration": "03:29",
+            "singer": "Hybrid Minds/Charlotte Haining"
+        },
+        {
+            "id": 570436054,
+            "name": "Sniper (SpectraSoul Remix)",
+            "duration": "04:12",
+            "singer": "Folly Rae/Spectrasoul"
+        },
+        {
+            "id": 29850393,
+            "name": "Now You Are Gone(ELKA Remix)",
+            "duration": "05:21",
+            "singer": "Michael St Laurent"
+        },
+        {
+            "id": 566436678,
+            "name": "Paint By Numbers",
+            "duration": "05:12",
+            "singer": "Hybrid Minds/Charlotte Haining"
+        },
+        {
+            "id": 407862389,
+            "name": "Electric Sun",
+            "duration": "04:09",
+            "singer": "Logistics/Sherry Davis"
+        },
+        {
+            "id": 18548746,
+            "name": "Drift Away",
+            "duration": "05:08",
+            "singer": "Rameses B"
+        },
+        {
+            "id": 38391535,
+            "name": "Nightmare (Maxin Remix)",
+            "duration": "03:40",
+            "singer": "Maxin/SirensCeol/Sean Dee"
+        },
+        {
+            "id": 434659095,
+            "name": "Stood In The Dark",
+            "duration": "05:06",
+            "singer": "Dan Dakota"
+        },
+        {
+            "id": 32431560,
+            "name": "Albion prelude",
+            "duration": "06:23",
+            "singer": "Fatkids"
+        },
+        {
+            "id": 27693496,
+            "name": "In The Shadows (feat. Bladerunner & Philippa Hanna)",
+            "duration": "05:16",
+            "singer": "Bcee"
+        },
+        {
+            "id": 472944192,
+            "name": "Arcadia",
+            "duration": "05:15",
+            "singer": "Rameses B"
+        },
+        {
+            "id": 414118106,
+            "name": "It Means Nothing",
+            "duration": "04:34",
+            "singer": "Phase/Whiney"
+        },
+        {
+            "id": 400689451,
+            "name": "The Unknown",
+            "duration": "05:14",
+            "singer": "Dualistic&NCT",
+            "albumName": "Escapism 2"
+        },
+        {
+            "id": 518092363,
+            "name": "Station Six",
+            "duration": "05:00",
+            "singer": "Dualistic"
+        },
+        {
+            "id": 33856965,
+            "name": "Wears Me Down",
+            "duration": "04:51",
+            "singer": "Riya"
+        },
+        {
+            "id": 30854519,
+            "name": "Dive",
+            "duration": "06:32",
+            "singer": "Flite"
+        },
+        {
+            "id": 33856971,
+            "name": "Fear Bites",
+            "duration": "04:31",
+            "singer": "Riya"
+        },
+        {
+            "id": 28851529,
+            "name": "Looking for Diversion (feat. Lucy Kitchen)",
+            "duration": "04:36",
+            "singer": "Technimatic"
+        },
+        {
+            "id": 508917606,
+            "name": "Can't Breathe (The Vanguard Project Remix)",
+            "duration": "05:11",
+            "singer": "Muffler/Sansa/The Vanguard Project"
+        },
+        {
+            "id": 508903760,
+            "name": "Lost & Found (The Vanguard Project Remix)",
+            "duration": "05:36",
+            "singer": "Bcee/Rocky Nti/The Vanguard Project"
+        },
+        {
+            "id": 33525137,
+            "name": "Kismet",
+            "duration": "05:53",
+            "singer": "Hybrid Minds"
+        },
+        {
+            "id": 28044275,
+            "name": "Forest feat. Philippa Hanna",
+            "duration": "04:57",
+            "singer": "Hybrid Minds"
+        },
+        {
+            "id": 35440252,
+            "name": "Raccoon City",
+            "duration": "03:46",
+            "singer": "Aether/SizzleBird/Veela"
+        },
+        {
+            "id": 33856973,
+            "name": "Still Remains",
+            "duration": "05:34",
+            "singer": "Riya"
+        },
+        {
+            "id": 504492222,
+            "name": "In Disguise",
+            "duration": "05:21",
+            "singer": "Gerra & Stone/Peta Oneir"
+        },
+        {
+            "id": 544253494,
+            "name": "Fight (Original Mix)",
+            "duration": "05:25",
+            "singer": "Conrad Subs"
+        },
+        {
+            "id": 485960829,
+            "name": "Inside",
+            "duration": "05:07",
+            "singer": "Hybrid Minds/Emily Jones"
+        },
+        {
+            "id": 472141736,
+            "name": "Ether",
+            "duration": "04:15",
+            "singer": "Rameses B"
+        },
+        {
+            "id": 485964742,
+            "name": "Secret Place",
+            "duration": "05:14",
+            "singer": "Hybrid Minds/Tiffani Juno"
+        },
+        {
+            "id": 509612958,
+            "name": "Drowning (Keeno Remix)",
+            "duration": "04:32",
+            "singer": "KREAM/Clara Mae/keeno"
+        },
+        {
+            "id": 446874089,
+            "name": "I See U",
+            "duration": "05:58",
+            "singer": "Dawn Wall"
+        },
+        {
+            "id": 27852769,
+            "name": "Afterglow",
+            "duration": "03:45",
+            "singer": "Wilkinson"
+        },
+        {
+            "id": 490637523,
+            "name": "I Don't Wanna Wake Up",
+            "duration": "04:13",
+            "singer": "Makoto/Karina Ramage",
+            "albumName": "Salvation"
+        },
+        {
+            "id": 485964737,
+            "name": "Touch",
+            "duration": "05:13",
+            "singer": "Hybrid Minds/Tiffani Juno"
+        },
+        {
+            "id": 487379918,
+            "name": "Sanctuary",
+            "duration": "05:12",
+            "singer": "Nu:Logic"
+        },
+        {
+            "id": 494410525,
+            "name": "Unsaid",
+            "duration": "05:05",
+            "singer": "Pola & Bryson/Blake"
+        },
+        {
+            "id": 479061694,
+            "name": "Wander",
+            "duration": "04:08",
+            "singer": "Wisp X"
+        },
+        {
+            "id": 504017111,
+            "name": "Parallel (LSB Remix)",
+            "duration": "06:46",
+            "singer": "LSB/Technimatic"
+        },
+        {
+            "id": 508903774,
+            "name": "Confessions (Break Remix)",
+            "duration": "06:00",
+            "singer": "Total Science/Riya/Break/Frank H Carter III"
+        },
+        {
+            "id": 508903768,
+            "name": "Melting Pot",
+            "duration": "06:07",
+            "singer": "Nymfo/Robert Manos"
+        },
+        {
+            "id": 508903765,
+            "name": "Perfect Solution (feat. MC Fats)",
+            "duration": "05:17",
+            "singer": "Villem/Mcleod"
+        },
+        {
+            "id": 553452889,
+            "name": "Hush (Original Mix)",
+            "duration": "04:41",
+            "singer": "Conrad Subs"
+        },
+        {
+            "id": 508917607,
+            "name": "Maneuvers in the Dark",
+            "duration": "07:03",
+            "singer": "Villem"
+        },
+        {
+            "id": 518076380,
+            "name": "Echo",
+            "duration": "05:13",
+            "singer": "Phaction",
+            "albumName": "Escapism 4"
+        },
+        {
+            "id": 33255783,
+            "name": "Where Do We Go (Ft Riya)",
+            "duration": "05:41",
+            "singer": "Makoto/A Sides"
+        },
+        {
+            "id": 508917605,
+            "name": "Lose Myself",
+            "duration": "05:35",
+            "singer": "Macca/Vector/Loz Contreras/Charli"
+        },
+        {
+            "id": 508903759,
+            "name": "Heaven",
+            "duration": "04:06",
+            "singer": "Tim Cant"
+        },
+        {
+            "id": 508917602,
+            "name": "Antwerp",
+            "duration": "05:23",
+            "singer": "GLXY"
+        },
+        {
+            "id": 508917601,
+            "name": "Addicted (Technimatic Remix)",
+            "duration": "05:17",
+            "singer": "Seba/Technimatic"
+        },
+        {
+            "id": 530986227,
+            "name": "Lunar",
+            "duration": "04:43",
+            "singer": "Rameses B"
+        },
+        {
+            "id": 493276989,
+            "name": "In My Life",
+            "duration": "05:27",
+            "singer": "Redeyes",
+            "albumName": "Blueprints"
+        },
+        {
+            "id": 515816383,
+            "name": "Left Behind",
+            "duration": "05:36",
+            "singer": "Riya/Nymfo/ZeroZero"
+        },
+        {
+            "id": 515796421,
+            "name": "Ships",
+            "duration": "05:19",
+            "singer": "Riya/Villem/Mcleod/DRS"
+        },
+        {
+            "id": 28268041,
+            "name": "Dawning",
+            "duration": "04:59",
+            "singer": "Madface"
+        },
+        {
+            "id": 407459526,
+            "name": "The Liquid Ensemble",
+            "duration": "07:26",
+            "singer": "Kubix"
+        },
+        {
+            "id": 557583842,
+            "name": "Seasons (Futuristik & Whogaux Remix) ",
+            "duration": "03:13",
+            "singer": "Futuristik/Harley Bird/Cadmium/Whogaux"
+        },
+        {
+            "id": 414118110,
+            "name": "Whisper To Me",
+            "duration": "04:55",
+            "singer": "POLA/Bryson/Sammie Bella"
+        },
+        {
+            "id": 514054364,
+            "name": "Fire Lit Sky",
+            "duration": "05:16",
+            "singer": "Etherwood"
+        },
+        {
+            "id": 544253493,
+            "name": "Honestly (Original Mix)",
+            "duration": "06:04",
+            "singer": "Conrad Subs"
+        },
+        {
+            "id": 518390205,
+            "name": "If You're Feeling (Original Mix)",
+            "duration": "05:55",
+            "singer": "Invold"
+        },
+        {
+            "id": 528273714,
+            "name": "The Hallows",
+            "duration": "05:20",
+            "singer": "Andy Leech"
+        },
+        {
+            "id": 535303670,
+            "name": "All Or Nothing (Original Mix)",
+            "duration": "06:06",
+            "singer": "Nelver"
+        },
+        {
+            "id": 26224287,
+            "name": "Frozen In Time",
+            "duration": "06:08",
+            "singer": "NCT/Andreas Ort/Charline"
+        },
+        {
+            "id": 535303669,
+            "name": "Mild Moments (Original Mix)",
+            "duration": "05:41",
+            "singer": "Nelver"
+        },
+        {
+            "id": 549819867,
+            "name": "Luminescence",
+            "duration": "04:33",
+            "singer": "Blure"
+        },
+        {
+            "id": 544934785,
+            "name": "Stardust (Original Mix)",
+            "duration": "05:05",
+            "singer": "Distance"
+        },
+        {
+            "id": 565975051,
+            "name": "Catalyst",
+            "duration": "03:16",
+            "singer": "SizzleBird"
+        },
+        {
+            "id": 573918221,
+            "name": "Pacifica",
+            "duration": "04:37",
+            "singer": "Dexcell"
+        },
+        {
+            "id": 573668386,
+            "name": "Eyes On Her",
+            "duration": "06:00",
+            "singer": "Arch Origin"
+        },
+        {
+            "id": 573670013,
+            "name": "Antidote",
+            "duration": "04:59",
+            "singer": "Arch Origin"
+        },
+        {
+            "id": 18900091,
+            "name": "Liquid Hearts",
+            "duration": "03:59",
+            "singer": "Killigrew"
+        },
+        {
+            "id": 422104214,
+            "name": "Side Hustle",
+            "duration": "04:52",
+            "singer": "Technimatic"
+        },
+        {
+            "id": 454231955,
+            "name": "Half A World Away",
+            "duration": "04:39",
+            "singer": "Azaleh/Wiljan"
+        },
+        {
+            "id": 412911232,
+            "name": "Chapters",
+            "duration": "03:43",
+            "singer": "Cypher"
+        },
+        {
+            "id": 477250101,
+            "name": "Fading",
+            "duration": "04:27",
+            "singer": "Sappheiros"
+        },
+        {
+            "id": 531051227,
+            "name": "Traveller",
+            "duration": "04:30",
+            "singer": "Rameses B"
+        },
+        {
+            "id": 28268032,
+            "name": "Telecaster",
+            "duration": "05:11",
+            "singer": "Dan Dakota"
+        },
+        {
+            "id": 28268031,
+            "name": "Change",
+            "duration": "05:11",
+            "singer": "Maduk"
+        },
+        {
+            "id": 467952111,
+            "name": "Hold You",
+            "duration": "05:31",
+            "singer": "Monrroe/Sam King"
+        },
+        {
+            "id": 467952109,
+            "name": "Time for Change ",
+            "duration": "05:53",
+            "singer": "Monrroe/Blake"
+        },
+        {
+            "id": 26474464,
+            "name": "Meaning of Life",
+            "duration": "05:27",
+            "singer": "Rameses B"
+        },
+        {
+            "id": 485964738,
+            "name": "Skeletons",
+            "duration": "04:59",
+            "singer": "Hybrid Minds/Grimm"
+        },
+        {
+            "id": 560978768,
+            "name": "The Strings (Original Mix)",
+            "duration": "06:02",
+            "singer": "MsDoS"
+        },
+        {
+            "id": 560978769,
+            "name": "The Strings (Joz Moz Remix)",
+            "duration": "05:20",
+            "singer": "MsDoS"
+        },
+        {
+            "id": 563436885,
+            "name": "Soon (Utile Remix)",
+            "duration": "05:06",
+            "singer": "Utile/Monrroe"
+        },
+        {
+            "id": 512126464,
+            "name": "Inside",
+            "duration": "05:07",
+            "singer": "Hybrid Minds"
+        },
+        {
+            "id": 565841099,
+            "name": "Awakening",
+            "duration": "03:04",
+            "singer": "SizzleBird"
+        },
+        {
+            "id": 444269141,
+            "name": "Phoenix (Original Mix)",
+            "duration": "05:00",
+            "singer": "Hybrid Minds/Alexa Harley"
+        },
+        {
+            "id": 573577356,
+            "name": "Rain ",
+            "duration": "04:18",
+            "singer": "Sekai/Aleana Redd"
+        },
+        {
+            "id": 573918222,
+            "name": "Speechless",
+            "duration": "04:56",
+            "singer": "Dexcell/Charli Brix"
+        },
+        {
+            "id": 863086228,
+            "name": "Red Curls (Original Mix)",
+            "duration": "06:16",
+            "singer": "MsDoS/Subsid"
+        },
+        {
+            "id": 27930604,
+            "name": "Begin By Letting Go",
+            "duration": "04:21",
+            "singer": "Etherwood"
+        }
+    ]
+}

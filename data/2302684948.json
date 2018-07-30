@@ -1,0 +1,248 @@
+{
+    "dataType": "playListDetail",
+    "title": "无前奏 | 喜欢无需铺垫 几秒就能沉醉",
+    "id": 2302684948,
+    "cover": "http://p3.music.126.net/tzPAeqa45vlbj8sGMk1F8w==/109951163393168087.jpg?param=200y200",
+    "songs": [
+        {
+            "id": 35283291,
+            "name": "Reforget",
+            "duration": "03:51",
+            "singer": "Lauv"
+        },
+        {
+            "id": 572724117,
+            "name": "Bathtub",
+            "duration": "03:07",
+            "singer": "Iselin Solheim"
+        },
+        {
+            "id": 522511677,
+            "name": "Sober",
+            "duration": "03:23",
+            "singer": "G-Eazy/Charlie Puth"
+        },
+        {
+            "id": 482988471,
+            "name": "2U",
+            "duration": "03:14",
+            "singer": "David Guetta/Justin Bieber"
+        },
+        {
+            "id": 464647338,
+            "name": "Summer",
+            "duration": "02:31",
+            "singer": "MOST/Ruby Prophet"
+        },
+        {
+            "id": 521657088,
+            "name": "Miss You",
+            "duration": "03:01",
+            "singer": "Louis Tomlinson"
+        },
+        {
+            "id": 36668810,
+            "name": "YOUTH",
+            "duration": "03:05",
+            "singer": "Troye Sivan/Allie X"
+        },
+        {
+            "id": 483024211,
+            "name": "I Heart U",
+            "duration": "03:16",
+            "singer": "Kretsen/Violet Days"
+        },
+        {
+            "id": 862854166,
+            "name": "I Got You◑",
+            "duration": "03:31",
+            "singer": "Honne"
+        },
+        {
+            "id": 31273503,
+            "name": "The Other",
+            "duration": "03:09",
+            "singer": "Lauv"
+        },
+        {
+            "id": 423118988,
+            "name": "Fresh Eyes",
+            "duration": "03:18",
+            "singer": "Andy Grammer"
+        },
+        {
+            "id": 31967275,
+            "name": "All the Others",
+            "duration": "02:53",
+            "singer": "The Coronas"
+        },
+        {
+            "id": 34229234,
+            "name": "i hate u i love u",
+            "duration": "03:46",
+            "singer": "gnash/Olivia O'Brien"
+        },
+        {
+            "id": 434659433,
+            "name": "Nothing To Say",
+            "duration": "03:26",
+            "singer": "Y.V.E. 48/LissA"
+        },
+        {
+            "id": 458439148,
+            "name": "Never Been Better",
+            "duration": "02:55",
+            "singer": "Steve Void"
+        },
+        {
+            "id": 32945000,
+            "name": "Across the Uneeverse",
+            "duration": "04:05",
+            "singer": "My-Q"
+        },
+        {
+            "id": 411315504,
+            "name": "How To Love (Original Mix)",
+            "duration": "03:38",
+            "singer": "Cash Cash/Sofia Reyes"
+        },
+        {
+            "id": 30251317,
+            "name": "世界は恋に落ちている -acoustic version-",
+            "duration": "05:40",
+            "singer": "かぴ"
+        },
+        {
+            "id": 536622304,
+            "name": "Lemon - (电视剧《非自然死亡》主题曲 / ドラマ「アンナチュラル」主題歌)",
+            "duration": "04:15",
+            "singer": "米津玄師"
+        },
+        {
+            "id": 467953855,
+            "name": "사랑에 빠진 걸까요 - (好像陷入爱情了)",
+            "duration": "03:20",
+            "singer": "VROMANCE/OBroject"
+        },
+        {
+            "id": 35779017,
+            "name": "뜨겁지가 않아 - (不热)",
+            "duration": "03:12",
+            "singer": "Paul Kim/Vasco"
+        },
+        {
+            "id": 522617477,
+            "name": "...Ready For It? (BloodPop® Remix)",
+            "duration": "03:08",
+            "singer": "Taylor Swift/BloodPop"
+        },
+        {
+            "id": 487454048,
+            "name": "First Time (R3hab Remix)",
+            "duration": "02:35",
+            "singer": "Kygo/Ellie Goulding/R3hab"
+        },
+        {
+            "id": 507986112,
+            "name": "Sober (Krakn Remix)",
+            "duration": "02:53",
+            "singer": "Cheat Codes/Nicky Romero"
+        },
+        {
+            "id": 445666851,
+            "name": "What U Do to Me",
+            "duration": "03:06",
+            "singer": "Roshelle"
+        },
+        {
+            "id": 523008829,
+            "name": "liability (demo)",
+            "duration": "02:53",
+            "singer": "Tove Styrke"
+        },
+        {
+            "id": 501214039,
+            "name": "You Could Be",
+            "duration": "02:40",
+            "singer": "R3hab/Khrebto"
+        },
+        {
+            "id": 461544288,
+            "name": "Healing Song",
+            "duration": "03:09",
+            "singer": "Lune"
+        },
+        {
+            "id": 29009655,
+            "name": "East of Eden",
+            "duration": "03:05",
+            "singer": "Zella Day"
+        },
+        {
+            "id": 25713016,
+            "name": "Jar Of Love",
+            "duration": "03:52",
+            "singer": "曲婉婷"
+        },
+        {
+            "id": 484614436,
+            "name": "Out of Love",
+            "duration": "03:26",
+            "singer": "INDIIA"
+        },
+        {
+            "id": 439076364,
+            "name": "Solo Dance",
+            "duration": "02:54",
+            "singer": "Martin Jensen"
+        },
+        {
+            "id": 22540701,
+            "name": "Like A Star",
+            "duration": "04:01",
+            "singer": "Corinne Bailey Rae"
+        },
+        {
+            "id": 483024028,
+            "name": "Look4You",
+            "duration": "02:52",
+            "singer": "Alberto Ciccarini"
+        },
+        {
+            "id": 529557738,
+            "name": "Lullaby",
+            "duration": "02:40",
+            "singer": "R3hab/Mike Williams"
+        },
+        {
+            "id": 28828040,
+            "name": "Paralyse",
+            "duration": "03:05",
+            "singer": "Polarheart"
+        },
+        {
+            "id": 456185246,
+            "name": "Falling",
+            "duration": "03:22",
+            "singer": "Alesso"
+        },
+        {
+            "id": 82486,
+            "name": "春风吹",
+            "duration": "03:20",
+            "singer": "方大同"
+        },
+        {
+            "id": 421423806,
+            "name": "小半",
+            "duration": "04:57",
+            "singer": "陈粒"
+        },
+        {
+            "id": 521418347,
+            "name": "主角",
+            "duration": "04:30",
+            "singer": "王诗安"
+        }
+    ]
+}

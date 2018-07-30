@@ -1,0 +1,243 @@
+{
+    "dataType": "playListDetail",
+    "title": "我没有很喜欢你，我只是经常想你",
+    "id": 2297904738,
+    "cover": "http://p4.music.126.net/pcmTRoJTPgkxA4HmPqw83A==/18580647000010026.jpg?param=200y200",
+    "desc": "<b>介绍：</b>\n你喜欢巧克力味的奥利奥，就算超市断货，你也会买花生巧克力夹心的，只吃掉巧克力的那一半。吃到甜的李子是要靠运气的一口，很甜一口酸了，那就不吃了，保持专属于你的执着和难预料的怪脾气都没有关系，喜...<br>\n",
+    "songs": [
+        {
+            "id": 428203132,
+            "name": "Shutterbug",
+            "duration": "03:18",
+            "singer": "Glenna"
+        },
+        {
+            "id": 21224493,
+            "name": "I Can",
+            "duration": "03:05",
+            "singer": "Minnutes"
+        },
+        {
+            "id": 497463179,
+            "name": "Lucky",
+            "duration": "03:20",
+            "singer": "Lenka"
+        },
+        {
+            "id": 2414984,
+            "name": "Near or Far",
+            "duration": "03:36",
+            "singer": "Carissa Rae"
+        },
+        {
+            "id": 2919622,
+            "name": "I Am You",
+            "duration": "04:34",
+            "singer": "Kim Taylor"
+        },
+        {
+            "id": 5096294,
+            "name": "If A Song Could Get Me You",
+            "duration": "03:28",
+            "singer": "Marit Larsen"
+        },
+        {
+            "id": 19572276,
+            "name": "Painting By Chagall",
+            "duration": "03:57",
+            "singer": "The Weepies"
+        },
+        {
+            "id": 32069280,
+            "name": "Nothing Hurts Like This",
+            "duration": "03:14",
+            "singer": "Slo"
+        },
+        {
+            "id": 2786189,
+            "name": "Sunny Day",
+            "duration": "02:38",
+            "singer": "Joy Williams"
+        },
+        {
+            "id": 19572271,
+            "name": "Gotta Have You",
+            "duration": "03:19",
+            "singer": "The Weepies"
+        },
+        {
+            "id": 17109372,
+            "name": "Sing In The Rain",
+            "duration": "02:45",
+            "singer": "Moriah Peters"
+        },
+        {
+            "id": 27899008,
+            "name": "Sunflower",
+            "duration": "03:27",
+            "singer": "Emma Stevens"
+        },
+        {
+            "id": 16607998,
+            "name": "The Show",
+            "duration": "03:55",
+            "singer": "Lenka"
+        },
+        {
+            "id": 34516568,
+            "name": "Chaos",
+            "duration": "03:03",
+            "singer": "Frankie"
+        },
+        {
+            "id": 21224495,
+            "name": "Discover",
+            "duration": "02:39",
+            "singer": "Minnutes"
+        },
+        {
+            "id": 19189445,
+            "name": "Even Though I'm A Woman",
+            "duration": "04:08",
+            "singer": "Seeker Lover Keeper"
+        },
+        {
+            "id": 416554193,
+            "name": "South Wind",
+            "duration": "03:36",
+            "singer": "NIKIIE"
+        },
+        {
+            "id": 19724606,
+            "name": "I Could Be the One",
+            "duration": "03:46",
+            "singer": "Donna Lewis"
+        },
+        {
+            "id": 31192579,
+            "name": "How To Break A Heart",
+            "duration": "03:30",
+            "singer": "Julian Moon"
+        },
+        {
+            "id": 2178185,
+            "name": "All Of Me",
+            "duration": "03:33",
+            "singer": "Ally Rhodes"
+        },
+        {
+            "id": 19900524,
+            "name": "Bitter Heart",
+            "duration": "02:37",
+            "singer": "Zee Avi"
+        },
+        {
+            "id": 1068393,
+            "name": "You've Got My Heart",
+            "duration": "03:41",
+            "singer": "Audrianna Cole"
+        },
+        {
+            "id": 18662465,
+            "name": "You Must Love Me",
+            "duration": "02:18",
+            "singer": "Rachel Chan"
+        },
+        {
+            "id": 16426574,
+            "name": "Melancholy Astronautic Man - Original",
+            "duration": "02:33",
+            "singer": "Allie Moss"
+        },
+        {
+            "id": 27579123,
+            "name": "Enemy",
+            "duration": "04:12",
+            "singer": "Jennifer March"
+        },
+        {
+            "id": 29823025,
+            "name": "Nobody Knows",
+            "duration": "03:11",
+            "singer": "Tammy Ying"
+        },
+        {
+            "id": 3161527,
+            "name": "Good Morning and Good Night",
+            "duration": "03:21",
+            "singer": "Maggie McClure"
+        },
+        {
+            "id": 37820826,
+            "name": "Santa Baby",
+            "duration": "02:53",
+            "singer": "Daniela Andrade"
+        },
+        {
+            "id": 5063494,
+            "name": "The sign (Chillout Mix) - remix",
+            "duration": "04:27",
+            "singer": "Motif"
+        },
+        {
+            "id": 19767598,
+            "name": "I Will Trust You",
+            "duration": "04:03",
+            "singer": "Elizabeth South"
+        },
+        {
+            "id": 422094813,
+            "name": "Goldmine",
+            "duration": "03:25",
+            "singer": "Colbie Caillat"
+        },
+        {
+            "id": 21572439,
+            "name": "Don't Leave Me (Ne Me Quitte Pas)",
+            "duration": "03:40",
+            "singer": "Regina Spektor"
+        },
+        {
+            "id": 28347352,
+            "name": "Stuck Like Glue",
+            "duration": "03:34",
+            "singer": "Lenka/Nick Howard"
+        },
+        {
+            "id": 3157058,
+            "name": "Ordinary Day",
+            "duration": "02:46",
+            "singer": "Melanie Penn"
+        },
+        {
+            "id": 18680851,
+            "name": "Fuerteventura",
+            "duration": "02:15",
+            "singer": "Russian Red"
+        },
+        {
+            "id": 22502721,
+            "name": "Still Here (String Version)",
+            "duration": "03:43",
+            "singer": "Lene Marlin"
+        },
+        {
+            "id": 449320011,
+            "name": "I'm Yours Under the Mistletoe（Cover Jason Mraz / Justin Bieber）",
+            "duration": "03:04",
+            "singer": "CANNIE(晴子)/Harmony_l"
+        },
+        {
+            "id": 421160291,
+            "name": "TV In Black And White (Version 2)",
+            "duration": "04:02",
+            "singer": "Lana Del Rey"
+        },
+        {
+            "id": 863383784,
+            "name": "to the moon",
+            "duration": "04:30",
+            "singer": "narish"
+        }
+    ]
+}

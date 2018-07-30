@@ -1,0 +1,897 @@
+{
+    "dataType": "playListDetail",
+    "title": "聆听这些流行乐队的活力之歌",
+    "id": 2278767768,
+    "cover": "http://p4.music.126.net/WWmlbNDq8x46CP2Ce1Q0Xg==/109951163366401291.jpg?param=200y200",
+    "desc": "<b>介绍：</b>\n看这些乐队为我们带来怎样色彩斑斓的世界，听舞台上神采奕奕的他们为我们演奏出活力飞扬的歌曲；看歌声所及之处人们随着节奏律动，听我们一同唱出青春的呼唤；一起让跃动的音符和温暖的和声充盈耳际，唤醒...<br>\n",
+    "songs": [
+        {
+            "id": 17177237,
+            "name": "Charlie Brown",
+            "duration": "04:45",
+            "singer": "Coldplay"
+        },
+        {
+            "id": 26352841,
+            "name": "Believer",
+            "duration": "03:03",
+            "singer": "American Authors"
+        },
+        {
+            "id": 19945726,
+            "name": "Radioactive",
+            "duration": "03:08",
+            "singer": "Imagine Dragons"
+        },
+        {
+            "id": 500406851,
+            "name": "Walk On Water",
+            "duration": "03:08",
+            "singer": "30 Seconds to Mars"
+        },
+        {
+            "id": 18274249,
+            "name": "I Like To Dance",
+            "duration": "03:00",
+            "singer": "Hot Chelle Rae"
+        },
+        {
+            "id": 25882976,
+            "name": "Live While We're Young",
+            "duration": "03:20",
+            "singer": "One Direction"
+        },
+        {
+            "id": 1701156,
+            "name": "Built to Last",
+            "duration": "03:42",
+            "singer": "Mêlée"
+        },
+        {
+            "id": 26060065,
+            "name": "Counting Stars",
+            "duration": "04:17",
+            "singer": "OneRepublic"
+        },
+        {
+            "id": 36308623,
+            "name": "Adventure of a Lifetime",
+            "duration": "04:23",
+            "singer": "Coldplay"
+        },
+        {
+            "id": 28661564,
+            "name": "Maps",
+            "duration": "03:09",
+            "singer": "Maroon 5"
+        },
+        {
+            "id": 27514263,
+            "name": "Gold (Acoustic)",
+            "duration": "03:55",
+            "singer": "Owl City"
+        },
+        {
+            "id": 32752242,
+            "name": "Saturday",
+            "duration": "02:56",
+            "singer": "Simple Plan"
+        },
+        {
+            "id": 26199445,
+            "name": "The Phoenix",
+            "duration": "04:04",
+            "singer": "Fall Out Boy"
+        },
+        {
+            "id": 34986131,
+            "name": "Under the Sun",
+            "duration": "03:24",
+            "singer": "Lawson"
+        },
+        {
+            "id": 453176141,
+            "name": "We are",
+            "duration": "04:15",
+            "singer": "ONE OK ROCK"
+        },
+        {
+            "id": 27646851,
+            "name": "Best Day Of My Life",
+            "duration": "03:13",
+            "singer": "American Authors"
+        },
+        {
+            "id": 4132266,
+            "name": "Year 3000",
+            "duration": "03:22",
+            "singer": "Jonas Brothers"
+        },
+        {
+            "id": 29019227,
+            "name": "Sugar",
+            "duration": "03:55",
+            "singer": "Maroon 5"
+        },
+        {
+            "id": 26256023,
+            "name": "You",
+            "duration": "03:46",
+            "singer": "Hollywood Ending"
+        },
+        {
+            "id": 17753288,
+            "name": "What Makes You Beautiful",
+            "duration": "03:18",
+            "singer": "One Direction"
+        },
+        {
+            "id": 21609169,
+            "name": "Jet Lag",
+            "duration": "03:23",
+            "singer": "Simple Plan/Natasha Bedingfield"
+        },
+        {
+            "id": 33887617,
+            "name": "Make You Mine",
+            "duration": "03:42",
+            "singer": "Family of the Year"
+        },
+        {
+            "id": 545655512,
+            "name": "Your Love Is My Favourite Band",
+            "duration": "03:09",
+            "singer": "The Vaccines"
+        },
+        {
+            "id": 519020592,
+            "name": "HOLD ME TIGHT OR DON’T",
+            "duration": "03:30",
+            "singer": "Fall Out Boy"
+        },
+        {
+            "id": 26069686,
+            "name": "We Are Young",
+            "duration": "04:10",
+            "singer": "Fun./Janelle Monáe"
+        },
+        {
+            "id": 3879801,
+            "name": "Shot In the Dark",
+            "duration": "03:26",
+            "singer": "Augustana"
+        },
+        {
+            "id": 4128805,
+            "name": "It's Time",
+            "duration": "03:58",
+            "singer": "Imagine Dragons"
+        },
+        {
+            "id": 3986017,
+            "name": "Viva La Vida",
+            "duration": "04:01",
+            "singer": "Coldplay"
+        },
+        {
+            "id": 409374302,
+            "name": "I'm Born To Run",
+            "duration": "03:26",
+            "singer": "American Authors"
+        },
+        {
+            "id": 21253808,
+            "name": "Daylight",
+            "duration": "03:45",
+            "singer": "Maroon 5"
+        },
+        {
+            "id": 25729088,
+            "name": "Feel Again",
+            "duration": "03:05",
+            "singer": "OneRepublic"
+        },
+        {
+            "id": 408772708,
+            "name": "Waking Up",
+            "duration": "04:20",
+            "singer": "Emblem3"
+        },
+        {
+            "id": 27965256,
+            "name": "Undefeated",
+            "duration": "03:40",
+            "singer": "Daughtry"
+        },
+        {
+            "id": 19542337,
+            "name": "Hall of Fame",
+            "duration": "03:22",
+            "singer": "The Script/will.i.am"
+        },
+        {
+            "id": 21162793,
+            "name": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+            "duration": "03:23",
+            "singer": "My Chemical Romance"
+        },
+        {
+            "id": 28496080,
+            "name": "Not Another Song About Love",
+            "duration": "03:54",
+            "singer": "Hollywood Ending"
+        },
+        {
+            "id": 34722449,
+            "name": "Cake By The Ocean",
+            "duration": "03:38",
+            "singer": "DNCE"
+        },
+        {
+            "id": 26608504,
+            "name": "Nobody Compares",
+            "duration": "03:31",
+            "singer": "One Direction"
+        },
+        {
+            "id": 26349704,
+            "name": "Sideways",
+            "duration": "03:43",
+            "singer": "This Century"
+        },
+        {
+            "id": 400342389,
+            "name": "The Sound",
+            "duration": "04:08",
+            "singer": "The 1975"
+        },
+        {
+            "id": 26233522,
+            "name": "Wild & Free",
+            "duration": "03:09",
+            "singer": "A Rocket to the Moon"
+        },
+        {
+            "id": 29539137,
+            "name": "These Days",
+            "duration": "03:52",
+            "singer": "Take That"
+        },
+        {
+            "id": 4386538,
+            "name": "Thanks For Nothing",
+            "duration": "03:21",
+            "singer": "The Downtown Fiction"
+        },
+        {
+            "id": 29382788,
+            "name": "Shut Up and Dance",
+            "duration": "03:17",
+            "singer": "Walk The Moon"
+        },
+        {
+            "id": 36024887,
+            "name": "All I Want Is Love",
+            "duration": "03:11",
+            "singer": "A Great Big World"
+        },
+        {
+            "id": 31053380,
+            "name": "Red",
+            "duration": "03:06",
+            "singer": "Against the Current"
+        },
+        {
+            "id": 29753303,
+            "name": "Smile",
+            "duration": "03:20",
+            "singer": "R5"
+        },
+        {
+            "id": 26608507,
+            "name": "Magic",
+            "duration": "03:04",
+            "singer": "One Direction"
+        },
+        {
+            "id": 27725290,
+            "name": "Emma",
+            "duration": "03:19",
+            "singer": "Satin Circus"
+        },
+        {
+            "id": 1346265,
+            "name": "Second Chance",
+            "duration": "03:42",
+            "singer": "Faber Drive"
+        },
+        {
+            "id": 29823960,
+            "name": "Punk a*$ Kids",
+            "duration": "03:36",
+            "singer": "Hollywood Ending"
+        },
+        {
+            "id": 30706227,
+            "name": "Not Your Way",
+            "duration": "03:06",
+            "singer": "MisterWives"
+        },
+        {
+            "id": 28409208,
+            "name": "Last Night",
+            "duration": "03:07",
+            "singer": "The Vamps"
+        },
+        {
+            "id": 26197534,
+            "name": "Ain't It Fun",
+            "duration": "04:56",
+            "singer": "Paramore"
+        },
+        {
+            "id": 463164521,
+            "name": "Good Girls",
+            "duration": "04:09",
+            "singer": "LANY"
+        },
+        {
+            "id": 561279112,
+            "name": "Start Again - (美剧《十三个原因》第二季插曲)",
+            "duration": "02:45",
+            "singer": "OneRepublic/Logic"
+        },
+        {
+            "id": 473330715,
+            "name": "Hard Times",
+            "duration": "03:02",
+            "singer": "Paramore"
+        },
+        {
+            "id": 27570930,
+            "name": "Three Perfect Days",
+            "duration": "03:40",
+            "singer": "Before You Exit"
+        },
+        {
+            "id": 29737541,
+            "name": "The World Is Ours",
+            "duration": "03:54",
+            "singer": "Eleven Past One"
+        },
+        {
+            "id": 488641702,
+            "name": "You Never Knew",
+            "duration": "04:29",
+            "singer": "HAIM"
+        },
+        {
+            "id": 26333338,
+            "name": "On Our Way",
+            "duration": "03:15",
+            "singer": "The Royal Concept"
+        },
+        {
+            "id": 27770319,
+            "name": "Fallin' for You",
+            "duration": "03:36",
+            "singer": "R5"
+        },
+        {
+            "id": 521187582,
+            "name": "Born To Race - (生而竞速)",
+            "duration": "03:11",
+            "singer": "OneRepublic"
+        },
+        {
+            "id": 28493605,
+            "name": "Good Day",
+            "duration": "03:29",
+            "singer": "Lucky Stroke"
+        },
+        {
+            "id": 17596217,
+            "name": "Animal",
+            "duration": "03:34",
+            "singer": "Neon Trees"
+        },
+        {
+            "id": 29723070,
+            "name": "Stay",
+            "duration": "03:38",
+            "singer": "Auryn"
+        },
+        {
+            "id": 422132921,
+            "name": "Cat",
+            "duration": "02:44",
+            "singer": "Relient K"
+        },
+        {
+            "id": 17596214,
+            "name": "Still Young",
+            "duration": "05:04",
+            "singer": "Neon Trees"
+        },
+        {
+            "id": 4386591,
+            "name": "Take Me Home",
+            "duration": "03:06",
+            "singer": "The Downtown Fiction"
+        },
+        {
+            "id": 503020028,
+            "name": "Rock the World",
+            "duration": "03:10",
+            "singer": "The Script"
+        },
+        {
+            "id": 27927445,
+            "name": "Won't Be Broken",
+            "duration": "03:42",
+            "singer": "Keane"
+        },
+        {
+            "id": 28029287,
+            "name": "In",
+            "duration": "03:42",
+            "singer": "Simple Plan"
+        },
+        {
+            "id": 533392183,
+            "name": "DANCE",
+            "duration": "02:58",
+            "singer": "DNCE"
+        },
+        {
+            "id": 21071909,
+            "name": "Nothing",
+            "duration": "03:50",
+            "singer": "McFly"
+        },
+        {
+            "id": 29163313,
+            "name": "Set It Off",
+            "duration": "03:07",
+            "singer": "Faber Drive"
+        },
+        {
+            "id": 26427253,
+            "name": "Dreaming",
+            "duration": "03:37",
+            "singer": "Smallpools"
+        },
+        {
+            "id": 28274649,
+            "name": "Dreamgirl",
+            "duration": "03:05",
+            "singer": "Satin Circus"
+        },
+        {
+            "id": 35310577,
+            "name": "Mountains",
+            "duration": "03:41",
+            "singer": "Lawson"
+        },
+        {
+            "id": 27566697,
+            "name": "Good Time",
+            "duration": "02:49",
+            "singer": "Alex Goot/Against the Current"
+        },
+        {
+            "id": 28859949,
+            "name": "Red & Gold",
+            "duration": "03:29",
+            "singer": "Young Rising Sons"
+        },
+        {
+            "id": 27867895,
+            "name": "Love Don't Die",
+            "duration": "03:03",
+            "singer": "The Fray"
+        },
+        {
+            "id": 27867130,
+            "name": "Are You Ready?",
+            "duration": "03:34",
+            "singer": "Lawson"
+        },
+        {
+            "id": 19542365,
+            "name": "Science & Faith",
+            "duration": "04:20",
+            "singer": "The Script"
+        },
+        {
+            "id": 26233526,
+            "name": "You're My Song",
+            "duration": "02:56",
+            "singer": "A Rocket to the Moon"
+        },
+        {
+            "id": 4216725,
+            "name": "Everybody Talks",
+            "duration": "02:59",
+            "singer": "Neon Trees"
+        },
+        {
+            "id": 19535975,
+            "name": "I Quit! I Quit! I Quit!",
+            "duration": "03:09",
+            "singer": "The Click Five"
+        },
+        {
+            "id": 399353808,
+            "name": "Don't Threaten Me With A Good Time",
+            "duration": "03:33",
+            "singer": "Panic! At The Disco"
+        },
+        {
+            "id": 16854334,
+            "name": "The Great Escape (Album Version)",
+            "duration": "03:28",
+            "singer": "Boys Like Girls"
+        },
+        {
+            "id": 545655045,
+            "name": "Burn the House Down",
+            "duration": "03:32",
+            "singer": "AJR"
+        },
+        {
+            "id": 30431816,
+            "name": "Our Own House",
+            "duration": "03:52",
+            "singer": "MisterWives"
+        },
+        {
+            "id": 4109353,
+            "name": "Downtown Girl",
+            "duration": "02:56",
+            "singer": "Hot Chelle Rae"
+        },
+        {
+            "id": 28496081,
+            "name": "Freak Like Me",
+            "duration": "03:16",
+            "singer": "Hollywood Ending"
+        },
+        {
+            "id": 551970360,
+            "name": "Youngblood",
+            "duration": "03:23",
+            "singer": "5 Seconds of Summer"
+        },
+        {
+            "id": 1346218,
+            "name": "I’ll Be There",
+            "duration": "03:26",
+            "singer": "Faber Drive"
+        },
+        {
+            "id": 526883270,
+            "name": "I Can't Quit",
+            "duration": "02:42",
+            "singer": "The Vaccines"
+        },
+        {
+            "id": 476181688,
+            "name": "Told You So",
+            "duration": "03:08",
+            "singer": "Paramore"
+        },
+        {
+            "id": 28761308,
+            "name": "St. Patrick",
+            "duration": "04:20",
+            "singer": "PVRIS"
+        },
+        {
+            "id": 29737543,
+            "name": "I'm Ready",
+            "duration": "03:25",
+            "singer": "Eleven Past One"
+        },
+        {
+            "id": 35847081,
+            "name": "Castaway",
+            "duration": "03:34",
+            "singer": "5 Seconds of Summer"
+        },
+        {
+            "id": 484311971,
+            "name": "The Man",
+            "duration": "04:08",
+            "singer": "The Killers"
+        },
+        {
+            "id": 453176145,
+            "name": "Listen",
+            "duration": "03:38",
+            "singer": "ONE OK ROCK/Avril Lavigne"
+        },
+        {
+            "id": 410785638,
+            "name": "Fire",
+            "duration": "03:49",
+            "singer": "PVRIS"
+        },
+        {
+            "id": 20491417,
+            "name": "Anna Sun",
+            "duration": "05:21",
+            "singer": "Walk The Moon"
+        },
+        {
+            "id": 27867132,
+            "name": "Parachute",
+            "duration": "03:05",
+            "singer": "Lawson"
+        },
+        {
+            "id": 28267286,
+            "name": "All the Way",
+            "duration": "02:59",
+            "singer": "Timeflies"
+        },
+        {
+            "id": 5134298,
+            "name": "Greatest Day",
+            "duration": "03:59",
+            "singer": "Take That"
+        },
+        {
+            "id": 5043464,
+            "name": "Play My Music",
+            "duration": "03:17",
+            "singer": "Jonas Brothers"
+        },
+        {
+            "id": 19542335,
+            "name": "Good Ol' Days",
+            "duration": "04:24",
+            "singer": "The Script"
+        },
+        {
+            "id": 17231552,
+            "name": "She's So Mean",
+            "duration": "03:50",
+            "singer": "Matchbox Twenty"
+        },
+        {
+            "id": 27648599,
+            "name": "The Other Side",
+            "duration": "03:40",
+            "singer": "Tonight Alive"
+        },
+        {
+            "id": 438803494,
+            "name": "Changing Tides",
+            "duration": "03:29",
+            "singer": "The Fray"
+        },
+        {
+            "id": 26060070,
+            "name": "Burning Bridges",
+            "duration": "04:17",
+            "singer": "OneRepublic"
+        },
+        {
+            "id": 4386587,
+            "name": "Oceans Between Us",
+            "duration": "03:03",
+            "singer": "The Downtown Fiction"
+        },
+        {
+            "id": 27770321,
+            "name": "Here Comes Forever",
+            "duration": "03:15",
+            "singer": "R5"
+        },
+        {
+            "id": 507903967,
+            "name": "Off To See The World",
+            "duration": "03:04",
+            "singer": "Lukas Graham"
+        },
+        {
+            "id": 21071928,
+            "name": "Shine A Light - Radio Edit",
+            "duration": "03:38",
+            "singer": "McFly"
+        },
+        {
+            "id": 18086023,
+            "name": "Wondering (Album Version)",
+            "duration": "03:32",
+            "singer": "Good Charlotte"
+        },
+        {
+            "id": 17177240,
+            "name": "Every Teardrop Is a Waterfall",
+            "duration": "04:00",
+            "singer": "Coldplay"
+        },
+        {
+            "id": 19047075,
+            "name": "Sovereign Light Café",
+            "duration": "03:38",
+            "singer": "Keane"
+        },
+        {
+            "id": 19535984,
+            "name": "The Way It Goes",
+            "duration": "03:27",
+            "singer": "The Click Five"
+        },
+        {
+            "id": 495569297,
+            "name": "I Wanna Go Out",
+            "duration": "03:05",
+            "singer": "American Authors"
+        },
+        {
+            "id": 30798591,
+            "name": "Speakerphone",
+            "duration": "03:28",
+            "singer": "Rixton"
+        },
+        {
+            "id": 28182091,
+            "name": "If You Love Me",
+            "duration": "03:35",
+            "singer": "Satin Circus"
+        },
+        {
+            "id": 30064171,
+            "name": "Crossroads",
+            "duration": "02:58",
+            "singer": "Satin Circus"
+        },
+        {
+            "id": 28815871,
+            "name": "The Spark",
+            "duration": "03:46",
+            "singer": "Everyday Sunday"
+        },
+        {
+            "id": 26524104,
+            "name": "First Time",
+            "duration": "03:48",
+            "singer": "Jonas Brothers"
+        },
+        {
+            "id": 467011968,
+            "name": "New Day",
+            "duration": "03:29",
+            "singer": "Take That"
+        },
+        {
+            "id": 28935215,
+            "name": "Fallen",
+            "duration": "02:59",
+            "singer": "Imagine Dragons"
+        },
+        {
+            "id": 28385970,
+            "name": "Swim",
+            "duration": "03:15",
+            "singer": "Fickle Friends"
+        },
+        {
+            "id": 27725221,
+            "name": "Forever",
+            "duration": "04:05",
+            "singer": "HAIM"
+        },
+        {
+            "id": 4109340,
+            "name": "Honestly",
+            "duration": "03:22",
+            "singer": "Hot Chelle Rae"
+        },
+        {
+            "id": 503016028,
+            "name": "Wonders",
+            "duration": "04:18",
+            "singer": "The Script"
+        },
+        {
+            "id": 28274653,
+            "name": "Peach Party",
+            "duration": "03:37",
+            "singer": "Satin Circus"
+        },
+        {
+            "id": 31717027,
+            "name": "That's My Jam",
+            "duration": "02:43",
+            "singer": "Relient K/Owl City/Adam Young"
+        },
+        {
+            "id": 5040835,
+            "name": "How Far We've Come",
+            "duration": "03:29",
+            "singer": "Matchbox Twenty"
+        },
+        {
+            "id": 470563384,
+            "name": "Everything Everything",
+            "duration": "03:23",
+            "singer": "American Authors"
+        },
+        {
+            "id": 27037909,
+            "name": "Crazy World (Album Version)",
+            "duration": "03:57",
+            "singer": "Boys Like Girls"
+        },
+        {
+            "id": 17910228,
+            "name": "Out On The Town (Bonus Track)",
+            "duration": "04:21",
+            "singer": "Fun."
+        },
+        {
+            "id": 21609177,
+            "name": "This Song Saved My Life",
+            "duration": "03:12",
+            "singer": "Simple Plan"
+        },
+        {
+            "id": 27965251,
+            "name": "High Above the Ground",
+            "duration": "03:11",
+            "singer": "Daughtry"
+        },
+        {
+            "id": 27792521,
+            "name": "Damn (Bonus Track)",
+            "duration": "03:44",
+            "singer": "The Royal Concept"
+        },
+        {
+            "id": 412016840,
+            "name": "On Top of the World",
+            "duration": "03:12",
+            "singer": "Imagine Dragons"
+        },
+        {
+            "id": 555974816,
+            "name": "Do My Own Thing",
+            "duration": "03:16",
+            "singer": "American Authors"
+        },
+        {
+            "id": 1701089,
+            "name": "The Masquerade",
+            "duration": "04:03",
+            "singer": "Mêlée"
+        },
+        {
+            "id": 17753260,
+            "name": "Up All Night",
+            "duration": "03:14",
+            "singer": "One Direction"
+        },
+        {
+            "id": 28359108,
+            "name": "Wild Heart",
+            "duration": "03:11",
+            "singer": "The Vamps"
+        },
+        {
+            "id": 559351685,
+            "name": "Younger",
+            "duration": "03:42",
+            "singer": "A Great Big World"
+        },
+        {
+            "id": 29802587,
+            "name": "Miracles - (电影《Unbroken》主题曲)",
+            "duration": "03:55",
+            "singer": "Coldplay"
+        }
+    ]
+}

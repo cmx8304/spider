@@ -1,0 +1,519 @@
+{
+    "dataType": "playListDetail",
+    "title": "日语丨水风空落眼前花",
+    "id": 2299699665,
+    "cover": "http://p3.music.126.net/VFW7oMXZkPzwQtNmvnjUAg==/19212866184371108.jpg?param=200y200",
+    "songs": [
+        {
+            "id": 29017261,
+            "name": "泪光闪闪 - (涙そうそう)",
+            "duration": "04:20",
+            "singer": "夏川りみ"
+        },
+        {
+            "id": 22783456,
+            "name": "涙そうそう",
+            "duration": "04:20",
+            "singer": "Begin"
+        },
+        {
+            "id": 22685408,
+            "name": "竹田の子守呗",
+            "duration": "03:32",
+            "singer": "rain book"
+        },
+        {
+            "id": 620487,
+            "name": "里の秋 - (村落之秋)",
+            "duration": "04:03",
+            "singer": "mammy Sino"
+        },
+        {
+            "id": 464916877,
+            "name": "さくら ~あなたに出会えてよかった~（樱花樱花想见你）（Cover RSP）",
+            "duration": "04:59",
+            "singer": "mieni/佐天Tamako"
+        },
+        {
+            "id": 26439275,
+            "name": "まげてのばして",
+            "duration": "02:00",
+            "singer": "汤浅亜美",
+            "albumName": "嫌われ松子の歌たち"
+        },
+        {
+            "id": 29379784,
+            "name": "四季の歌",
+            "duration": "03:02",
+            "singer": "芹洋子"
+        },
+        {
+            "id": 571257,
+            "name": "Down By the Salley Gardens",
+            "duration": "04:07",
+            "singer": "藤田恵美"
+        },
+        {
+            "id": 26830207,
+            "name": "僕が死のうと思ったのは - (曾经我也想过一了百了)",
+            "duration": "06:22",
+            "singer": "中島美嘉"
+        },
+        {
+            "id": 471284744,
+            "name": "僕が死のうと思ったのは/曾经我也想过一了百了（Cover 中岛美嘉）",
+            "duration": "06:16",
+            "singer": "芝麻Mochi"
+        },
+        {
+            "id": 569617,
+            "name": "キンモクセイ - (金木犀)",
+            "duration": "03:24",
+            "singer": "イノトモ"
+        },
+        {
+            "id": 22690899,
+            "name": "真夏のエレジー",
+            "duration": "04:57",
+            "singer": "いきものがかり"
+        },
+        {
+            "id": 646221,
+            "name": "美童(みやらび)の旅路",
+            "duration": "03:46",
+            "singer": "神谷千寻"
+        },
+        {
+            "id": 624879,
+            "name": "掌の海",
+            "duration": "04:20",
+            "singer": "夏川りみ"
+        },
+        {
+            "id": 22748787,
+            "name": "青い宝",
+            "duration": "04:51",
+            "singer": "やなわらばー"
+        },
+        {
+            "id": 32317208,
+            "name": "僕らの手には何もないけど、",
+            "duration": "04:12",
+            "singer": "RAM WIRE"
+        },
+        {
+            "id": 31421442,
+            "name": "アイロニ",
+            "duration": "04:04",
+            "singer": "majiko"
+        },
+        {
+            "id": 22705492,
+            "name": "アイロニ",
+            "duration": "04:10",
+            "singer": "鹿乃"
+        },
+        {
+            "id": 28049181,
+            "name": "眠る猫",
+            "duration": "04:20",
+            "singer": "イノトモ"
+        },
+        {
+            "id": 34204196,
+            "name": "はじまりの日",
+            "duration": "04:27",
+            "singer": "じょん"
+        },
+        {
+            "id": 857619,
+            "name": "深海少女",
+            "duration": "03:36",
+            "singer": "のぶなが"
+        },
+        {
+            "id": 587778,
+            "name": "クルマレテ - (覆盖)",
+            "duration": "04:46",
+            "singer": "KOKIA"
+        },
+        {
+            "id": 857606,
+            "name": "パズル",
+            "duration": "04:25",
+            "singer": "ENE"
+        },
+        {
+            "id": 541454735,
+            "name": "PLANET（Cover ラムジ）",
+            "duration": "04:04",
+            "singer": "KBShinya"
+        },
+        {
+            "id": 624899,
+            "name": "爱よ爱よ (かなよかなよ)",
+            "duration": "04:39",
+            "singer": "夏川りみ"
+        },
+        {
+            "id": 22715757,
+            "name": "Itsumo Nando Demo",
+            "duration": "03:46",
+            "singer": "竹仲絵里"
+        },
+        {
+            "id": 636176,
+            "name": "Believe",
+            "duration": "04:59",
+            "singer": "岡村孝子"
+        },
+        {
+            "id": 34078196,
+            "name": "空も飛べるはず",
+            "duration": "04:30",
+            "singer": "Ms.OOJA"
+        },
+        {
+            "id": 445816309,
+            "name": "恋音と雨空（cover AAA）",
+            "duration": "05:19",
+            "singer": "匀子/云の泣/嘟比Dubi/三无MarBlue/露蒂丝/MOKONA/小五"
+        },
+        {
+            "id": 426315854,
+            "name": "なごり雪",
+            "duration": "04:53",
+            "singer": "徳永英明"
+        },
+        {
+            "id": 26131195,
+            "name": "Kirari futari",
+            "duration": "02:40",
+            "singer": "mamerico"
+        },
+        {
+            "id": 445781219,
+            "name": "ツキアカリのミチシルベ（Cover stereopony）",
+            "duration": "04:00",
+            "singer": "三无MarBlue"
+        },
+        {
+            "id": 624160,
+            "name": "长い间",
+            "duration": "04:58",
+            "singer": "夏川りみ"
+        },
+        {
+            "id": 29713638,
+            "name": "心做し",
+            "duration": "04:28",
+            "singer": "花たん"
+        },
+        {
+            "id": 478303470,
+            "name": "心做し（Cover GUMI）",
+            "duration": "04:28",
+            "singer": "双笙"
+        },
+        {
+            "id": 444706081,
+            "name": "なきむし（Cover 沢井美空）",
+            "duration": "05:07",
+            "singer": "十九遥"
+        },
+        {
+            "id": 740558,
+            "name": "今晩はお月さん - (今晚月色真好)",
+            "duration": "03:44",
+            "singer": "ハンバート ハンバート"
+        },
+        {
+            "id": 569598,
+            "name": "梦の入り口",
+            "duration": "02:11",
+            "singer": "イノトモ"
+        },
+        {
+            "id": 626979,
+            "name": "嘘だといって(ニュー・バージョン)",
+            "duration": "03:15",
+            "singer": "长山洋子"
+        },
+        {
+            "id": 663762,
+            "name": "ルージュ",
+            "duration": "04:02",
+            "singer": "瀬川三恵子"
+        },
+        {
+            "id": 492053,
+            "name": "ありがとう",
+            "duration": "05:03",
+            "singer": "大橋卓弥"
+        },
+        {
+            "id": 426315844,
+            "name": "時の流れに身をまかせ",
+            "duration": "03:56",
+            "singer": "徳永英明"
+        },
+        {
+            "id": 593007,
+            "name": "それが大事",
+            "duration": "04:49",
+            "singer": "川嶋あい"
+        },
+        {
+            "id": 22676620,
+            "name": "花咲く旅路",
+            "duration": "03:53",
+            "singer": "原由子"
+        },
+        {
+            "id": 22815818,
+            "name": "夕焼けの歌",
+            "duration": "05:09",
+            "singer": "近藤真彦"
+        },
+        {
+            "id": 703000,
+            "name": "男と女",
+            "duration": "04:23",
+            "singer": "CHAGE and ASKA"
+        },
+        {
+            "id": 22639012,
+            "name": "時の過ぎゆくままに",
+            "duration": "03:24",
+            "singer": "沢田研二"
+        },
+        {
+            "id": 405998841,
+            "name": "あの頃～ジンジンバオヂュオニー～ - (日剧《即使如此我还是喜欢你》插曲 / ドラマ『それでも僕は君が好き』挿入歌)",
+            "duration": "05:47",
+            "singer": "whiteeeen"
+        },
+        {
+            "id": 595199,
+            "name": "恋におちて-Fall in love-",
+            "duration": "05:01",
+            "singer": "小林明子"
+        },
+        {
+            "id": 601536,
+            "name": "ねがい",
+            "duration": "03:22",
+            "singer": "久保田早纪"
+        },
+        {
+            "id": 22667470,
+            "name": "遠い日のNostalgia",
+            "duration": "04:47",
+            "singer": "ZARD"
+        },
+        {
+            "id": 480766,
+            "name": "ラヴ・イズ・オーヴァー",
+            "duration": "04:02",
+            "singer": "中西保志"
+        },
+        {
+            "id": 22683657,
+            "name": "夕顔 -album version-",
+            "duration": "04:18",
+            "singer": "能登麻美子"
+        },
+        {
+            "id": 550661,
+            "name": "手紙 ~拝啓 十五の君へ~",
+            "duration": "05:14",
+            "singer": "アンジェラ・アキ"
+        },
+        {
+            "id": 624825,
+            "name": "桜色舞うころ",
+            "duration": "04:56",
+            "singer": "中島美嘉"
+        },
+        {
+            "id": 424496995,
+            "name": "我的世界已坠入爱河 acoustic ver.（Cover Chico）",
+            "duration": "05:37",
+            "singer": "东京塔子"
+        },
+        {
+            "id": 29732992,
+            "name": "光るなら - (TV动画《四月是你的谎言》OP1 / TVアニメ「四月は君の嘘」OP1)",
+            "duration": "04:14",
+            "singer": "Goose house"
+        },
+        {
+            "id": 35804089,
+            "name": "サヨナラは私のために",
+            "duration": "04:28",
+            "singer": "松本伊代"
+        },
+        {
+            "id": 441116287,
+            "name": "茜さす - (TV动画《夏目友人帐 伍》片尾曲 / TVアニメ「夏目友人帳 伍」エンディングテーマ)",
+            "duration": "05:30",
+            "singer": "Aimer"
+        },
+        {
+            "id": 26133345,
+            "name": "三日月の夜 - (新月之夜)",
+            "duration": "04:59",
+            "singer": "つじあやの"
+        },
+        {
+            "id": 456312711,
+            "name": "いのちの名前（Cover 木村弓）",
+            "duration": "03:54",
+            "singer": "Nanaka"
+        },
+        {
+            "id": 29743607,
+            "name": "また君と - (再度和你)",
+            "duration": "04:08",
+            "singer": "JAY'ED/Ms.OOJA"
+        },
+        {
+            "id": 600569,
+            "name": "彼方からの手纸(アコースティック version)",
+            "duration": "04:04",
+            "singer": "木下美紗都"
+        },
+        {
+            "id": 448413030,
+            "name": "なんでもないや",
+            "duration": "05:40",
+            "singer": "佐天Tamako"
+        },
+        {
+            "id": 29017264,
+            "name": " 岛歌 - (岛呗)",
+            "duration": "05:18",
+            "singer": "夏川りみ"
+        },
+        {
+            "id": 624935,
+            "name": "树高千丈 落叶帰根",
+            "duration": "06:22",
+            "singer": "中島みゆき"
+        },
+        {
+            "id": 26099351,
+            "name": "唄の島",
+            "duration": "05:07",
+            "singer": "やなわらばー"
+        },
+        {
+            "id": 454359037,
+            "name": "いのちの名前（Cover 千与千寻）",
+            "duration": "03:50",
+            "singer": "拉面儿"
+        },
+        {
+            "id": 414721,
+            "name": "空も飞べるはず",
+            "duration": "04:32",
+            "singer": "岩代太郎"
+        },
+        {
+            "id": 399552336,
+            "name": "夢と葉桜",
+            "duration": "04:13",
+            "singer": "ヲタみん"
+        },
+        {
+            "id": 452111369,
+            "name": "夢と葉桜（Cover 初音ミク）",
+            "duration": "04:12",
+            "singer": "Nanaka"
+        },
+        {
+            "id": 29043459,
+            "name": "庭園にて。",
+            "duration": "03:08",
+            "singer": "acane_madder"
+        },
+        {
+            "id": 33337284,
+            "name": "庭園にて(左右混响版)",
+            "duration": "03:10",
+            "singer": "V.A."
+        },
+        {
+            "id": 22792900,
+            "name": "仆は君に恋をする",
+            "duration": "05:28",
+            "singer": "Naomile"
+        },
+        {
+            "id": 636165,
+            "name": "心の草原",
+            "duration": "05:10",
+            "singer": "岡村孝子"
+        },
+        {
+            "id": 568574,
+            "name": "月の明り -ファイナルファンタジーIV 爱のテーマ-",
+            "duration": "05:00",
+            "singer": "伊田恵美"
+        },
+        {
+            "id": 465266014,
+            "name": "春よ、来い。春天，来吧。（Cover 松任谷由実）",
+            "duration": "04:26",
+            "singer": "Akie秋绘"
+        },
+        {
+            "id": 624751,
+            "name": "银の龙の背に乗って",
+            "duration": "06:16",
+            "singer": "中島みゆき"
+        },
+        {
+            "id": 35845175,
+            "name": "アスノヨゾラ哨戒班 - (明天夜空的巡逻班)",
+            "duration": "02:55",
+            "singer": "いすぼくろ"
+        },
+        {
+            "id": 29737492,
+            "name": "ハーフムーン･セレナーデ",
+            "duration": "05:32",
+            "singer": "河合奈保子"
+        },
+        {
+            "id": 26386807,
+            "name": "ヤミヤミ",
+            "duration": "04:00",
+            "singer": "やくしまるえつこ"
+        },
+        {
+            "id": 26082159,
+            "name": "人生讃歌",
+            "duration": "02:48",
+            "singer": "茶色坚果巧克力"
+        },
+        {
+            "id": 740765,
+            "name": "しろつめくさ - (白车轴草)",
+            "duration": "02:49",
+            "singer": "ハンバート ハンバート"
+        },
+        {
+            "id": 27946868,
+            "name": "再见了,我们的幼稚园",
+            "duration": "03:17",
+            "singer": "本田望结"
+        },
+        {
+            "id": 28160062,
+            "name": "Time after time ~花舞う街で~",
+            "duration": "04:29",
+            "singer": "大野爱果"
+        }
+    ]
+}
