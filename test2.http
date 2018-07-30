@@ -32,7 +32,7 @@ playListId=1&id=18&name=demo&duration=4:34
 POST http://localhost:8080/playlist/add
 Content-Type: application/x-www-form-urlencoded
 
-id=188&title=1
+id=1&title=1
 
 ###
 

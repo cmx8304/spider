@@ -1,3 +1,77 @@
+POST http://localhost:8080/playlist/add
+Content-Type: application/x-www-form-urlencoded
+
+id=1&title=1
+
+<> 2018-07-30T051508.200.json
+
+###
+
+POST http://localhost:8080/playlist/add
+Content-Type: application/x-www-form-urlencoded
+
+id=1&title=1
+
+<> 2018-07-30T051447.500.json
+
+###
+
+POST http://localhost:8080/playlist/addsong
+Content-Type: application/x-www-form-urlencoded
+
+playListId=1&id=18&name=demo&duration=4:34
+
+<> 2018-07-30T051422.200.json
+
+###
+
+POST http://localhost:8080/playlist/add
+Content-Type: application/x-www-form-urlencoded
+
+id=1&title=1
+
+<> 2018-07-30T044439.500.json
+
+###
+
+GET http://localhost:8080/demo/queryAll
+Content-Type: application/x-www-form-urlencoded
+
+<> 2018-07-30T041648.200.json
+
+###
+
+GET http://localhost:8080/demo/queryAll
+Content-Type: application/x-www-form-urlencoded
+
+<> 2018-07-30T041554.500.json
+
+###
+
+GET http://localhost:8080/demo/queryAll
+Content-Type: application/x-www-form-urlencoded
+
+<> 2018-07-30T033045.500.json
+
+###
+
+GET http://localhost:8080/demo/queryAll
+Content-Type: application/x-www-form-urlencoded
+
+<> 2018-07-30T032923.500.json
+
+###
+
+GET http://localhost:8080/demo/queryAll
+Content-Type: application/x-www-form-urlencoded
+
+###
+
+GET http://localhost:8080/demo/queryAll
+Content-Type: application/x-www-form-urlencoded
+
+###
+
 POST http://localhost:8080/playlist/querysongs
 Content-Type: application/x-www-form-urlencoded
 
@@ -300,56 +374,6 @@ GET http://localhost:8082/demo/queryAll
 GET http://localhost:8082/demo/queryAll
 
 <> 2018-07-26T092143.404.html
-
-###
-
-GET http://localhost:8080/demo/queryAll
-
-<> 2018-07-25T053742.404.html
-
-###
-
-GET http://localhost:8080/demo/queryAll
-
-<> 2018-07-24T045645.404.html
-
-###
-
-GET http://localhost:8080/demo/queryAll
-
-###
-
-GET http://localhost:8080/demo/queryAll
-
-<> 2018-07-24T043733.404.html
-
-###
-
-GET http://localhost:8080/demo/queryAll
-
-<> 2018-07-24T034303.404.json
-
-###
-
-GET http://localhost:8080/demo/queryAll
-
-###
-
-GET http://localhost:8080/demo/queryAll
-
-<> 2018-07-24T032958.404.html
-
-###
-
-GET http://localhost:8080/demo/queryAll
-
-<> 2018-07-24T032814.404.html
-
-###
-
-GET http://localhost:8080/demo/queryAll
-
-<> 2018-07-24T032743.404.html
 
 ###
 
