@@ -36,6 +36,7 @@ public class DownloadServiceImpl implements DownloadService {
     /**
      * 初始化任务
      * Scheduled 循环执行该方法，15s后执行，30s再次执行
+     * @PostConstruct 让方法在应用启动过程中就开始执行
      */
     @Scheduled(initialDelay = 15000, fixedRate = 30000)
     @PostConstruct
@@ -45,6 +46,7 @@ public class DownloadServiceImpl implements DownloadService {
             return;
         }
 
+        //读取所有子文件
         for (File file : root.listFiles()){
             try {
                 handlerDownload(file);
@@ -55,7 +57,8 @@ public class DownloadServiceImpl implements DownloadService {
     }
 
     private void handlerDownload(File file) throws IOException{
-        //使用json解析
+        //使用jackson解析 json
+        //json当成map处理
         Map map = objectMapper.readValue(file,Map.class);
         Integer id = (Integer)map.get("id");
         String url = (String) map.get("url");
@@ -80,14 +83,17 @@ public class DownloadServiceImpl implements DownloadService {
     @Override
     public void download(String fileName, String url) {
 
+        //创建一个okhttp的request对象
         Request request = new Request.Builder().url(url).build();
 
         try{
+            //获得一个response对象
             Response response = client.newCall(request).execute();
 
-            //创建文件写入流
+            //创建文件写入流（file对象（根目录，文件名））
             FileOutputStream outputStream = new FileOutputStream(new File(getRoot(),fileName));
 
+            //自动写入文件，IOUtils由commons-io依赖库提供
             IOUtils.write(response.body().bytes(),outputStream);
 
         }catch (Exception e){

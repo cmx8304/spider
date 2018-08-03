@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html th:replace="~{layout/layout :: layout(~{::title},~{::div})}">
+<head>
+    <title>Spider 管理</title>
+</head>
+<body>
+    <div class="container">
+        <div class="alert alert-primary" role="alert">
+            可以在这里进行爬虫任务的管理
+        </div>
+
+        <form action="/spider" method="post">
+            <div class="form-group">
+                <input type="text" class="form-control" name="url" placeholder="请输入歌单列表页的URL">
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+</body>
+</html>
