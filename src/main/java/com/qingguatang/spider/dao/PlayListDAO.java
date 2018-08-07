@@ -25,6 +25,6 @@ public interface PlayListDAO {
     public List<PlayListDO> selectAll();
 
     @Select("select id,title,cover,gmt_modified as gmtModified,gmt_created as gmtCreated from play_list"
-            +"where id = #{id}")
+            +" where id = #{id}")
     public PlayListDO get(@Param("id") String id);
 }
